@@ -1,2 +1,2 @@
 # YummyAI
-This is an AI project for recepie recommentation bot
+This is an AI project for recipe recommentation bot

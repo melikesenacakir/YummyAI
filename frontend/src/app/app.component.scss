@@ -9,7 +9,12 @@ div {
   }
   
   h1 {
-    color: #ff4081;
-    font-size: 2.5rem;
+    color: #000000a4;
+    font-size: 1.5rem;
   }
-  
+  .container {
+    display: flex;
+    justify-content: center; /* Yatayda ortalar */
+    align-items: center;    /* Dikeyde ortalar */
+    height: 100vh;          /* Kapsayıcıyı ekran boyutunda yapar */
+  }

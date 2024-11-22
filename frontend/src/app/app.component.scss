@@ -4,17 +4,20 @@ div {
   }
   
   img {
-    width: 150px;
+    width: 180px;
     height: auto;
+    margin-bottom: 20px; 
+    border-radius: 70%;
   }
   
   h1 {
     color: #000000a4;
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
   .container {
     display: flex;
-    justify-content: center; /* Yatayda ortalar */
-    align-items: center;    /* Dikeyde ortalar */
-    height: 100vh;          /* Kapsayıcıyı ekran boyutunda yapar */
+    justify-content: center; 
+    align-items: center;    
+    height: 70vh;       
+    flex-direction: column;
   }

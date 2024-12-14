@@ -1,0 +1,2835 @@
+[
+  {
+    "yemekAdi": "Kuru Fasulye",
+    "malzemeler": [
+      "2 su bardağı kuru fasulye",
+      "1 adet kuru soğan",
+      "2 yemek kaşığı domates salçası",
+      "2 yemek kaşığı sıvı yağ",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı pul biber",
+      "6 su bardağı su"
+    ],
+    "yapilis": "Kuru fasulyeyi bir gece önceden ıslatın. Ertesi gün süzün. Soğanı sıvı yağda kavurun, salçayı ekleyin. Fasulyeleri ve baharatları ekledikten sonra suyu ekleyip kısık ateşte pişirin."
+  },
+  {
+    "yemekAdi": "İçli Köfte",
+    "malzemeler": [
+      "2 su bardağı ince bulgur",
+      "1 su bardağı irmik",
+      "1 yemek kaşığı un",
+      "1 tatlı kaşığı tuz",
+      "250 gram kıyma",
+      "1 adet kuru soğan",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 yemek kaşığı tereyağı",
+      "1 su bardağı ceviz içi"
+    ],
+    "yapilis": "Bulguru ve irmiği sıcak suyla ıslatıp yoğurun, un ve tuz ekleyerek hamur yapın. Tereyağında soğan ve kıymayı kavurup baharat ve cevizle iç harcı hazırlayın. Hamurdan parçalar alıp ortasını açarak iç harcı doldurun ve kapatın. Köfteleri kaynar tuzlu suda haşlayın ve sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Lahmacun",
+    "malzemeler": [
+      "500 gram kıyma",
+      "2 adet kuru soğan",
+      "3 adet domates",
+      "2 adet yeşil biber",
+      "3 diş sarımsak",
+      "1 tatlı kaşığı salça",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı tuz",
+      "1 çay bardağı maydanoz",
+      "Hamur için 3 su bardağı un",
+      "1 çay bardağı su",
+      "1 çay kaşığı maya"
+    ],
+    "yapilis": "Hamur için unu maya ve suyla yoğurun, dinlendirin. İç harcı hazırlamak için kıyma, soğan, domates, yeşil biber, salça ve baharatları karıştırın. Hamurları açın, harcı yayın ve fırında pişirin."
+  },
+  {
+    "yemekAdi": "Mantı",
+    "malzemeler": [
+      "2 su bardağı un",
+      "1 adet yumurta",
+      "1 çay bardağı su",
+      "250 gram kıyma",
+      "1 adet kuru soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "Yoğurt",
+      "sarımsak",
+      "tereyağı sosu"
+    ],
+    "yapilis": "Hamuru un, yumurta ve suyla yoğurup dinlendirin. Kıyma, soğan ve baharatları karıştırarak iç harcı hazırlayın. Hamuru açın, kareler kesin, harcı ekleyip kapatın. Kaynar suda haşlayın, yoğurt ve sosla servis edin."
+  },
+  {
+    "yemekAdi": "Zeytinyağlı Yaprak Sarma",
+    "malzemeler": [
+      "500 gram asma yaprağı",
+      "2 su bardağı pirinç",
+      "2 adet kuru soğan",
+      "1 çay bardağı zeytinyağı",
+      "1 yemek kaşığı salça",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı nane",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı şeker",
+      "2 su bardağı su"
+    ],
+    "yapilis": "Pirinci yıkayıp süzün. Soğanı zeytinyağında kavurun, salça, baharatlar, şeker ve pirinci ekleyerek karıştırın. 2 su bardağı su ekleyip suyunu çekene kadar pişirerek iç harcı hazırlayın. Asma yapraklarını kaynar suda hafifçe haşlayıp süzün. Yaprakların içine iç harçtan koyarak sıkı şekilde sarın. Tencereye dizip üzerine zeytinyağı ve su ekleyerek kısık ateşte pişirin."
+  },
+  {
+    "yemekAdi": "Tavuk Sote",
+    "malzemeler": [
+      "500 gram tavuk göğsü",
+      "2 adet kuru soğan",
+      "2 adet yeşil biber",
+      "2 adet domates",
+      "1 yemek kaşığı salça",
+      "3 yemek kaşığı sıvı yağ",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 çay bardağı su"
+    ],
+    "yapilis": "Tavukları doğrayıp yağda soteleyin. Soğan, biber ve domates ekleyerek kavurmaya devam edin. Baharatları ve az miktarda suyu ekleyerek kısık ateşte pişirin."
+  },
+  {
+    "yemekAdi": "Hünkar Beğendi",
+    "malzemeler": [
+      "500 gram kuşbaşı et",
+      "2 yemek kaşığı tereyağı",
+      "1 adet kuru soğan",
+      "2 yemek kaşığı salça",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "4 adet patlıcan",
+      "2 yemek kaşığı un",
+      "2 su bardağı süt",
+      "1 su bardağı rendelenmiş kaşar peyniri"
+    ],
+    "yapilis": "Patlıcanları közleyip kabuklarını soyun ve ezin. Tereyağında soğanı kavurun, etleri ekleyip rengi değişene kadar pişirin. Salça, tuz, karabiber ekleyip karıştırın. Unu ekleyip karıştırarak bir süre kavurun, ardından sütü ekleyin ve koyulaşana kadar karıştırarak pişirin. Közlenmiş patlıcanları ekleyip karıştırın. Karışımı bir kaba alın, üzerine rendelenmiş kaşar peynirini serpin ve fırına verip kaşar eriyene kadar pişirin."
+  },
+  {
+    "yemekAdi": "Çoban Salata",
+    "malzemeler": [
+      "3 adet domates",
+      "2 adet salatalık",
+      "1 adet kuru soğan",
+      "1 çay bardağı maydanoz",
+      "1 yemek kaşığı zeytinyağı",
+      "1 yemek kaşığı limon suyu",
+      "1 tatlı kaşığı tuz"
+    ],
+    "yapilis": "Domates, salatalık ve soğanı küçük doğrayın. Maydanozu ince ince kıyın. Tüm malzemeleri bir kaba alıp karıştırın. Üzerine zeytinyağı, limon suyu ve tuzu ekleyip iyice karıştırarak servis edin."
+  },
+  {
+    "yemekAdi": "Ezogelin Çorbası",
+    "malzemeler": [
+      "1 su bardağı kırmızı mercimek",
+      "2 yemek kaşığı pirinç",
+      "1 yemek kaşığı bulgur",
+      "1 adet kuru soğan",
+      "1 yemek kaşığı tereyağı",
+      "1 yemek kaşığı salça",
+      "1 tatlı kaşığı nane",
+      "1 tatlı kaşığı pul biber",
+      "6 su bardağı su"
+    ],
+    "yapilis": "Mercimek, pirinç ve bulguru yıkayın. Soğanı tereyağında kavurun, salça ve baharatları ekleyin. Su ekleyip malzemeleri pişirin, ardından blenderdan geçirip servis edin."
+  },
+  {
+    "yemekAdi": "Karışık Dolma",
+    "malzemeler": [
+      "5 adet dolmalık biber",
+      "5 adet kabak",
+      "3 adet domates",
+      "2 su bardağı pirinç",
+      "1 adet kuru soğan",
+      "1 yemek kaşığı salça",
+      "1 çay bardağı zeytinyağı",
+      "1 tatlı kaşığı nane",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber"
+    ],
+    "yapilis": "Pirinci yıkayın, soğanı kavurun, salçayı ekleyin, malzemeleri doldurun, sebzeleri tencereye dizip pişirin."
+  },
+  {
+    "yemekAdi": "Karnıyarık",
+    "malzemeler": [
+      "6 adet patlıcan",
+      "300 gram kıyma",
+      "1 adet kuru soğan",
+      "2 adet yeşil biber",
+      "2 adet domates",
+      "1 yemek kaşığı salça",
+      "1 çay bardağı sıvı yağ",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber"
+    ],
+    "yapilis": "Patlıcanları alacalı soyup ortalarını yararak kızartın. Kuru soğanı ve yeşil biberleri küçük doğrayıp sıvı yağda kavurun, üzerine kıymayı ekleyip kavurmaya devam edin. Salça, domates, tuz ve karabiber ekleyerek iç harcı hazırlayın. Kızarmış patlıcanların içine bu harcı doldurun. Tencereye dizip üzerine bir miktar su ekleyerek kısık ateşte pişirin."
+  },
+  {
+    "yemekAdi": "Beşamel Soslu Karnabahar",
+    "malzemeler": [
+      "1 adet karnabahar",
+      "2 yemek kaşığı tereyağı",
+      "2 yemek kaşığı un",
+      "2 su bardağı süt",
+      "1 tatlı kaşığı tuz",
+      "Yarım çay kaşığı karabiber",
+      "1 çay kaşığı muskat rendesi",
+      "Yarım su bardağı rendelenmiş kaşar peyniri"
+    ],
+    "yapilis": "Malzemeleri uygun şekilde hazırlayın, ardından klasik pişirme yöntemlerini takip ederek yemeği tamamlayın."
+  },
+  {
+    "yemekAdi": "İskender Kebabı",
+    "malzemeler": [
+      "500 gram kuzu eti (tercihen dönerlik)",
+      "2 yemek kaşığı tereyağı",
+      "1 adet domates",
+      "1 adet yeşil biber",
+      "1 yemek kaşığı salça",
+      "Yarım çay bardağı su",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 su bardağı yoğurt",
+      "1 tatlı kaşığı pul biber",
+      "1 adet pide ekmeği"
+    ],
+    "yapilis": "Kuzu etini ince ince doğrayıp, tuz ve karabiberle marine edin. Tereyağını bir tavada eritin ve etleri kavurun. Salçayı ekleyip, suyu da ilave ederek etin pişmesini sağlayın. Pide ekmeğini küçük parçalara kesip, fırında hafifçe ısıtın. Domatesi rendeleyip, yeşil biberle birlikte tavada soteleyin. Yoğurdu bir kaba alıp, pul biber ile karıştırın. Son olarak, pide ekmeği üzerine pişen etleri yerleştirip, üzerine yoğurtlu sosu ekleyin. Sotelediğiniz domates ve biberleri de üzerine ilave ederek sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Zeytinyağlı Enginar",
+    "malzemeler": [
+      "6 adet enginar",
+      "2 yemek kaşığı zeytinyağı",
+      "1 adet soğan",
+      "1 adet havuç",
+      "1 su bardağı su",
+      "Yarım limon suyu",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı şeker",
+      "Yarım çay bardağı zeytinyağı"
+    ],
+    "yapilis": "Enginarları temizleyip limonlu suda bekletin. Zeytinyağında soğanı ve havucu kavurun, suyu, tuzu, şekeri ekleyip kaynatın. Enginarları tencereye dizin ve üzerine zeytinyağı ile suyu ekleyip kısık ateşte pişirin. Piştikten sonra soğumaya bırakın ve soğuk servis edin."
+  },
+  {
+    "yemekAdi": "Fırında Tavuk Kanatları",
+    "malzemeler": [
+      "1 kg tavuk kanadı",
+      "2 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı kekik",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı tuz",
+      "Yarım çay bardağı yoğurt",
+      "1 tatlı kaşığı limon suyu",
+      "1 diş sarımsak"
+    ],
+    "yapilis": "Tavuk kanatlarını bir kaba alıp zeytinyağı, kekik, pul biber, tuz, yoğurt, limon suyu ve ezilmiş sarımsakla karıştırın. Karışıma tavukları bulayıp en az 30 dakika marinasyon için bekletin. Fırını 180°C'ye ısıtıp tavukları yağlı kağıt serili fırın tepsisine dizin. 40-45 dakika boyunca, tavuklar kızarana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Simit",
+    "malzemeler": [
+      "3 su bardağı un",
+      "1 paket yaş maya",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı şeker",
+      "1 su bardağı su",
+      "1 yemek kaşığı zeytinyağı",
+      "1 su bardağı pekmez",
+      "Yarım su bardağı susam"
+    ],
+    "yapilis": "Unu bir kaba alıp ortasını açın. Maya, tuz, şeker ve ılık suyu ekleyin. Hamuru yoğurun ve üzerini örtüp mayalanması için 1 saat bekletin. Hamur kabardıktan sonra simit şekli verin. Pekmezi suyla seyrelterek simitleri bu karışıma batırın, ardından susama bulayın. Fırını 180°C'ye ısıtıp simitleri 20-25 dakika boyunca altın rengi olana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Kısır",
+    "malzemeler": [
+      "2 su bardağı ince bulgur",
+      "2 yemek kaşığı domates salçası",
+      "1 adet limon",
+      "Yarım çay bardağı zeytinyağı",
+      "2 dal taze soğan",
+      "1 çay bardağı nar ekşisi",
+      "Tuz",
+      "pul biber",
+      "karabiber",
+      "1 tutam maydanoz",
+      "1 tutam nane"
+    ],
+    "yapilis": "Bulguru sıcak suyla ıslatıp kabarmaya bırakın. Salça, limon suyu, zeytinyağı ve baharatları ekleyerek karıştırın. İnce doğranmış taze soğan, maydanoz ve naneyi ekleyin, iyice harmanlayarak servis edin."
+  },
+  {
+    "yemekAdi": "Börek",
+    "malzemeler": [
+      "5 yufka",
+      "1 su bardağı sıvı yağ",
+      "1 su bardağı süt",
+      "1 adet yumurta",
+      "200 gram beyaz peynir",
+      "1 tatlı kaşığı tuz",
+      "Yarım çay kaşığı karabiber"
+    ],
+    "yapilis": "Yufkaları tepsiye serin. Bir kapta sıvı yağ, süt, yumurta, tuz ve karabiberi karıştırın. Beyaz peyniri ezip karışıma ekleyin. İlk yufkayı tepsiye serip üzerine hazırladığınız karışımdan sürün, ikinci yufkayı yerleştirip aynı işlemi tekrarlayın. Yufkaların arasına peynirli harcı serpiştirin. Son yufkayı kapatıp üzerine kalan karışımı sürün. Önceden ısıtılmış 180°C fırında 30-35 dakika, üzeri kızarana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Mercimek Çorbası",
+    "malzemeler": [
+      "1 su bardağı kırmızı mercimek",
+      "1 adet soğan",
+      "2 yemek kaşığı zeytinyağı",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 çay kaşığı kimyon",
+      "4 su bardağı su"
+    ],
+    "yapilis": "Kırmızı mercimekleri yıkayıp süzün. Zeytinyağında soğanı ve sarımsakları kavurun. Ardından mercimekleri ekleyip birkaç dakika kavurun. Baharatları (tuz, karabiber, kimyon) ekleyin ve üzerine suyu ilave edin. Çorba kaynamaya başladıktan sonra kısık ateşte mercimekler iyice yumuşayana kadar pişirin. Çorbayı bir süre dinlendirdikten sonra sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Kadayıf",
+    "malzemeler": [
+      "500 gram tel kadayıf",
+      "200 gram tereyağı",
+      "300 gram ceviz içi",
+      "2 su bardağı su",
+      "2 su bardağı toz şeker",
+      "1 tatlı kaşığı limon suyu",
+      "Yarım çay bardağı sıvı yağ"
+    ],
+    "yapilis": "Tereyağını eritip sıvı yağ ile karıştırın. Kadayıfı ince ince ayırıp yağla karıştırarak tepsiye yerleştirin. Üzerine ceviz içini serpin ve kadayıfı düzgünce yayın. 180°C fırında 30-40 dakika kadar üzeri altın rengini alana kadar pişirin. Şerbet için su, şeker ve limon suyunu kaynatın. Fırından çıkan kadayıfın üzerine sıcak şerbeti dökün ve şerbeti çekmesi için 10-15 dakika bekletin."
+  },
+  {
+    "yemekAdi": "Baklava",
+    "malzemeler": [
+      "1 paket baklava yufkası",
+      "250 gram ceviz içi",
+      "250 gram tereyağı",
+      "1 su bardağı su",
+      "2 su bardağı toz şeker",
+      "1 tatlı kaşığı limon suyu"
+    ],
+    "yapilis": "Baklava yufkalarını tepsiye serin ve her katına eritilmiş tereyağını sürün. Aralarına ceviz içini serpiştirin. Yufkaların tümü bitene kadar bu işlemi tekrarlayın. En üst katı da yufka ile kaplayıp baklavayı dilimleyin. Fırını 180°C'ye ısıtın ve baklavayı yaklaşık 45-50 dakika pişirin. Şerbet için su, şeker ve limon suyunu kaynatın. Fırından çıkan sıcak baklavanın üzerine sıcak şerbeti dökün ve şerbetin çekmesi için 10-15 dakika bekletin."
+  },
+  {
+    "yemekAdi": "Sütlaç",
+    "malzemeler": [
+      "1 su bardağı pirinç",
+      "4 su bardağı süt",
+      "1 su bardağı toz şeker",
+      "1 tatlı kaşığı vanilin",
+      "1 tatlı kaşığı nişasta",
+      "Yarım çay bardağı su",
+      "Tarçın (isteğe bağlı)"
+    ],
+    "yapilis": "Pirinçleri yıkayıp süzün, ardından 4 su bardağı sütle birlikte tencereye alın. Şeker ve vanilini ekleyip kaynamaya bırakın. Süt kaynadıktan sonra pirinçler yumuşayana kadar kısık ateşte pişirin. Nişastayı yarım çay bardağı suyla açıp karışıma ekleyin, karıştırarak kıvam alana kadar pişirin. Sütlaç kıvama geldikten sonra ocaktan alıp kaselere dökün. Tarçını isteğe bağlı olarak üzerine serpiştirip soğutun. Soğuduktan sonra servise hazır."
+  },
+  {
+    "yemekAdi": "Fırın Kumpir",
+    "malzemeler": [
+      "4 adet büyük boy patates",
+      "200 gram kaşar peyniri",
+      "100 gram zeytin",
+      "1 su bardağı mısır",
+      "1 yemek kaşığı tereyağı",
+      "1 çay bardağı zeytinyağı",
+      "Tuz",
+      "karabiber",
+      "Yoğurt (isteğe bağlı)"
+    ],
+    "yapilis": "Patatesleri yıkayıp, kabuklarını soyun ve haşlayın. Haşlanan patateslerin üzerine tereyağı ve zeytinyağını ekleyip iyice ezin. Üzerine tuz, karabiber ve isteğe bağlı yoğurt ekleyebilirsiniz. Kaşar peynirini rendeleyip, zeytinleri doğrayın. Haşlanmış patatesleri fırına verip, üzerini kaşar"
+  },
+  {
+    "yemekAdi": "Fattoush Salata",
+    "malzemeler": [
+      "2 adet domates",
+      "1 adet salatalık",
+      "1 adet yeşil biber",
+      "2 dal taze soğan",
+      "Yarım çay bardağı zeytinyağı",
+      "1 tatlı kaşığı nar ekşisi",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı tuz",
+      "Yarım limon suyu",
+      "1 adet bayat ekmek"
+    ],
+    "yapilis": "Domatesleri, salatalığı, yeşil biberi ve taze soğanı küçük küçük doğrayın. Bayat ekmeği ufak parçalara ayırıp, tavada zeytinyağında hafifçe kızartın. Bir kaba doğradığınız sebzeleri ekleyin ve üzerine nar ekşisi, pul biber, tuz ve limon suyunu ekleyin. Karıştırın ve son olarak kızarttığınız bayat ekmekleri ekleyip karıştırmaya devam edin. Salatanız hazır, soğuk servis yapabilirsiniz."
+  },
+  {
+    "yemekAdi": "Peynirli Börek",
+    "malzemeler": [
+      "4 yufka",
+      "200 gram beyaz peynir",
+      "100 gram kaşar peyniri",
+      "1 adet yumurta",
+      "Yarım su bardağı süt",
+      "Yarım su bardağı sıvı yağ",
+      "Tuz",
+      "karabiber"
+    ],
+    "yapilis": "Yufkaları tezgaha serin. Beyaz peynir ve kaşar peynirini bir kapta karıştırın. Yumurtayı çırpın, süt ve sıvı yağı ekleyin, karıştırarak sosu hazırlayın. Yufkaların arasına hazırladığınız karışımdan sürün ve peynirli harcı yufkaların içine yayın. Ardından yufkaları rulo şeklinde sarın ve tepsiye yerleştirin. Üzerine kalan yumurtalı karışımı sürün. 180°C'de 25-30 dakika boyunca üzeri kızarana kadar pişirin. Fırından çıkarıp sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Mevsim Salata",
+    "malzemeler": [
+      "2 adet domates",
+      "1 adet salatalık",
+      "1 adet havuç",
+      "1 adet kırmızı biber",
+      "1 dal taze nane",
+      "Yarım çay bardağı zeytinyağı",
+      "Tuz",
+      "limon suyu"
+    ],
+    "yapilis": "Domatesleri, salatalığı, havucu ve kırmızı biberi küçük küçük doğrayın. Taze naneyi ince ince kıyın. Bir kaba doğradığınız sebzeleri ekleyin ve üzerine zeytinyağını, tuzu ve limon suyunu ilave edin. Karıştırarak salatanızı hazırlayın. Soğuk servis yapabilirsiniz."
+  },
+  {
+    "yemekAdi": "Mercimek Köftesi",
+    "malzemeler": [
+      "1 su bardağı kırmızı mercimek",
+      "1 su bardağı ince bulgur",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı kimyon",
+      "Yarım çay bardağı zeytinyağı",
+      "1 çay bardağı sıcak su",
+      "Yarım limon suyu",
+      "Yarım demet taze soğan",
+      "Yarım demet maydanoz"
+    ],
+    "yapilis": "Kırmızı mercimeği yıkayıp, bir tencereye alıp üzerini geçecek kadar su ekleyin ve mercimekler yumuşayana kadar haşlayın. Haşlanan mercimeği ocaktan alıp, bulguru ekleyin ve karıştırarak şişmesini bekleyin. Soğanı ince ince doğrayın, zeytinyağında pembeleşene kadar kavurun. Ardından soğanı mercimek bulgura karıştırın. Tuz, pul biber, kimyon, taze soğan ve maydanozu da ekleyip karıştırın. Limon suyunu ilave edip yoğurun. Karışımdan ceviz büyüklüğünde parçalar alıp, şekil verin. Servis tabağına dizip soğuk servis yapın."
+  },
+  {
+    "yemekAdi": "Limonlu Kek",
+    "malzemeler": [
+      "3 adet yumurta",
+      "1 su bardağı toz şeker",
+      "1 su bardağı sıvı yağ",
+      "1 su bardağı süt",
+      "2 su bardağı un",
+      "1 paket kabartma tozu",
+      "1 paket vanilin",
+      "Yarım çay bardağı limon suyu",
+      "1 limon kabuğu rendesi"
+    ],
+    "yapilis": "Yumurtaları ve toz şekeri bir kaba alıp, mikserle iyice çırpın. Ardından sıvı yağ, süt, limon suyu ve rendelenmiş limon kabuğunu ekleyin, karıştırmaya devam edin. Un, kabartma tozu ve vanilini ayrı bir kapta karıştırıp, sıvı karışıma ekleyin. Karışımı homojen olana kadar çırpın. Yağlanmış kek kalıbına dökün ve 180°C'de yaklaşık 35-40 dakika pişirin. Kekin piştiğini kürdanla kontrol edin, sonra fırından çıkarıp soğutun. Dilimleyerek servis yapın."
+  },
+  {
+    "yemekAdi": "Yoğurtlu Kabak Salatası",
+    "malzemeler": [
+      "3 adet kabak",
+      "1 su bardağı yoğurt",
+      "2 diş sarımsak",
+      "2 yemek kaşığı zeytinyağı",
+      "Tuz",
+      "karabiber"
+    ],
+    "yapilis": "Kabakları yıkayıp, uçlarını kesip, rendelenmiş olarak bir kaba alın. Sarımsakları ezip, yoğurtla karıştırın. Zeytinyağını bir tavada ısıtıp, kabakları 2-3 dakika soteleyin. Sotelediğiniz kabakları yoğurtlu karışıma ekleyin. Tuz ve karabiberle tatlandırın. Karıştırın ve soğuyana kadar buzdolabında bekletin. Soğuyan salatayı soğuk olarak servis yapın."
+  },
+  {
+    "yemekAdi": "Su Böreği",
+    "malzemeler": [
+      "4 yufka",
+      "300 gram beyaz peynir",
+      "2 su bardağı süt",
+      "1 su bardağı sıvı yağ",
+      "2 adet yumurta",
+      "Yarım çay bardağı zeytinyağı",
+      "Tuz"
+    ],
+    "yapilis": "Malzemeleri uygun şekilde hazırlayın, ardından klasik pişirme yöntemlerini takip ederek yemeği tamamlayın."
+  },
+  {
+    "yemekAdi": "Kumpir",
+    "malzemeler": [
+      "4 adet büyük boy patates",
+      "200 gram kaşar peyniri",
+      "100 gram sucuk",
+      "1 su bardağı mısır",
+      "100 gram zeytin",
+      "2 yemek kaşığı tereyağı",
+      "Yarım çay bardağı zeytinyağı",
+      "Tuz",
+      "karabiber"
+    ],
+    "yapilis": "Patatesleri yıkayıp, üzerini geçecek kadar suyla haşlayın. Haşlanan patateslerin kabuklarını soyup, bir kaba alıp eziyin. Tereyağını ve zeytinyağını ekleyip, tuz ve karabiberle tatlandırın. Kaşar peynirini rendeleyin, sucuğu küçük küçük doğrayın. Haşlanmış patatesin içine kaşar peynirini ve sucuğu ekleyip karıştırın. Kumpiri bir tabağa alın, üzerine mısır, zeytin ve ekstra kaşar peyniri serpin. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Kabak Mücveri",
+    "malzemeler": [
+      "2 adet kabak",
+      "2 adet yumurta",
+      "1 su bardağı un",
+      "1 çay bardağı beyaz peynir",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "Yarım tatlı kaşığı pul biber",
+      "Sıvı yağ (kızartmak için)"
+    ],
+    "yapilis": "Kabakları rendeleyip fazla suyunu sıkarak bir kaba alın. Yumurtaları, beyaz peyniri, tuzu ve pul biberi ekleyin. Sarımsakları rendeleyip karışıma ilave edin. Unu ekleyip iyice karıştırarak bir harç hazırlayın. Sıvı yağı tavada ısıtın ve karışımdan kaşıkla alıp tavaya koyarak her iki tarafını da altın rengini alana kadar kızartın. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Fırın Tavuk",
+    "malzemeler": [
+      "1 adet tavuk (but veya göğüs)",
+      "2 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı kekik",
+      "1 adet limon",
+      "2 diş sarımsak"
+    ],
+    "yapilis": "Tavuğu yıkayıp, fazla suyunu süzün. Zeytinyağını, tuzu, karabiberi, kekiği, limon suyunu ve ezilmiş sarımsakları bir kapta karıştırın. Bu karışımı tavukla iyice harmanlayarak 30 dakika marine edin. Fırın tepsisini yağlayın ve tavukları yerleştirin. Önceden ısıtılmış 180°C fırında 40-45 dakika pişirin, tavuklar altın rengini alana kadar pişirmeye devam edin. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Meyveli Parfe",
+    "malzemeler": [
+      "1 paket krem şanti",
+      "2 su bardağı süt",
+      "1 su bardağı şeker",
+      "1 su bardağı yoğurt",
+      "2 adet muz",
+      "Yarım su bardağı çilek",
+      "Yarım su bardağı böğürtlen"
+    ],
+    "yapilis": "Krem şantiyi sütle çırpın ve şekerle birlikte yoğurdu ekleyin. Muzları dilimleyip, çilek ve böğürtlenleri küçük parçalara ayırın. Çırpılmış karışıma meyveleri ekleyip karıştırın. Hazırladığınız karışımı bir kaba dökün ve buzdolabında en az 4 saat, tercihen bir gece boyunca dondurun. Soğuyan parfenizi dilimleyerek soğuk servis yapın."
+  },
+  {
+    "yemekAdi": "Tavuklu Şehriye Çorbası",
+    "malzemeler": [
+      "1 adet tavuk göğsü",
+      "1/2 su bardağı arpa şehriye",
+      "1 adet havuç",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "2 yemek kaşığı zeytinyağı",
+      "1 litre tavuk suyu",
+      "1 çay bardağı süt"
+    ],
+    "yapilis": "Tavuk göğsünü haşlayıp, didikleyin. Zeytinyağını bir tencerede ısıtıp, doğranmış soğan ve havucu ekleyip kavurun. Ardından arpa şehriyeyi ekleyip birkaç dakika kavurun. Tavuk suyunu ekleyin, kaynamaya başladıktan sonra tuz, karabiber ve didiklenmiş tavuk etini ilave edin. Çorba kaynadıktan sonra, sütü ekleyip karıştırın ve birkaç dakika daha kaynatın. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Köfte Yahnisi",
+    "malzemeler": [
+      "500 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı karabiber",
+      "1 su bardağı ekmek içi",
+      "1/2 çay bardağı su",
+      "1 tatlı kaşığı domates salçası",
+      "2 yemek kaşığı sıvı yağ",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Kıyma, ince doğranmış soğan, tuz, pul biber, karabiber, ekmek içi, su ve domates salçasını karıştırarak yoğurun. Karışımdan ceviz büyüklüğünde köfteler yapıp sıvı yağda her tarafını kızartın. Tüm köfteleri kızarttıktan sonra, köfteleri bir tencereye alın. Üzerine 1 su bardağı suyu ekleyip kısık ateşte pişirin. Köfteler piştikten sonra sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Börekli Karnıbahar",
+    "malzemeler": [
+      "1 adet karnıbahar",
+      "2 adet yufka",
+      "200 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1/2 çay bardağı zeytinyağı",
+      "1 su bardağı süt",
+      "1 adet yumurta"
+    ],
+    "yapilis": "Karnıbaharı haşlayıp küçük parçalara ayırın. Kıyma ve ince doğranmış soğanı zeytinyağında kavurun, tuz ve karabiber ekleyin. Haşlanmış karnıbaharı ekleyip karıştırın ve ocaktan alın. Yufkaları tepsiye serip üzerine süt ve yumurta karışımından sürün. Hazırladığınız harcı yufkaların ortasına yerleştirip rulo yapın. Ruloları tepsiye dizip üzerine kalan sütlü karışımı dökün. 180°C fırında 25-30 dakika, üzeri kızarana kadar pişirin. Yemeğiniz servise hazır!"
+  },
+  {
+    "yemekAdi": "Sütlü Mısır Çorbası",
+    "malzemeler": [
+      "1 su bardağı mısır tanesi",
+      "1 adet patates",
+      "1 adet havuç",
+      "1 litre süt",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 yemek kaşığı tereyağı",
+      "1 çay bardağı krema"
+    ],
+    "yapilis": "Mısır tanelerini yıkayıp tencereye alın. Patates ve havucu küp küp doğrayıp mısırla birlikte 1 litre suda haşlayın. Haşlandıktan sonra karışıma tereyağını ekleyip eritin, tuz ve karabiberle tatlandırın. Ardından sütü ekleyip karıştırın ve kısık ateşte 10 dakika kadar pişirin. Çorbayı ocaktan alıp bir çay bardağı kremayı ekleyip karıştırın. Çorbanızı sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Zeytinyağlı Fasulye",
+    "malzemeler": [
+      "500 gram taze fasulye",
+      "2 adet domates",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı şeker",
+      "1/2 çay bardağı zeytinyağı",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Fasulyeleri yıkayıp uçlarını kesin, ardından doğrayın. Soğanı ve sarımsağı ince ince doğrayın, zeytinyağında kavurun. Doğranmış domatesleri ekleyip birkaç dakika kavurun. Fasulyeleri, tuz ve şekeri ekleyin, karıştırın. Üzerine suyu ekleyip kısık ateşte fasulyeler yumuşayana kadar pişirin. Sıcak veya ılık servis edebilirsiniz."
+  },
+  {
+    "yemekAdi": "Fırında Tavuklu Sebze Yemeği",
+    "malzemeler": [
+      "4 adet tavuk budu",
+      "2 adet patates",
+      "2 adet havuç",
+      "1 adet kabak",
+      "2 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı kekik",
+      "1 tatlı kaşığı pul biber",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Tavuk butlarını zeytinyağı, tuz, karabiber, kekik ve pul biberle baharatlayın. Patates, havuç ve kabağı iri iri doğrayın. Fırın tepsisine tavukları ve doğranmış sebzeleri yerleştirin. Üzerine bir su bardağı suyu ekleyip 180°C'de, tavuklar ve sebzeler yumuşayana kadar yaklaşık 40-45 dakika pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Köfte ve Patates Yemeği",
+    "malzemeler": [
+      "500 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı karabiber",
+      "2 adet patates",
+      "1 su bardağı su",
+      "1 tatlı kaşığı domates salçası",
+      "1 yemek kaşığı zeytinyağı"
+    ],
+    "yapilis": "Kıymayı, ince doğranmış soğan, tuz, pul biber ve karabiberle yoğurun. Karışımdan köfteler yapın. Patatesleri soyup yuvarlak dilimler halinde doğrayın. Zeytinyağında köfteleri kızartın, ardından patatesleri ekleyip birkaç dakika soteleyin. Domates salçasını ve suyu ekleyip karıştırın, ardından tencerenin kapağını kapatıp kısık ateşte patatesler yumuşayana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Sebzeli Et Sote",
+    "malzemeler": [
+      "500 gram kuzu eti",
+      "1 adet soğan",
+      "2 adet havuç",
+      "1 adet patates",
+      "1 adet domates",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1/2 çay bardağı zeytinyağı",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Kuzu etini küçük parçalara doğrayın ve zeytinyağında kızartın. Soğanı, havuçları, patatesi ve domatesi doğrayın, etin üzerine ekleyin ve kavurun. Sarımsakları doğrayıp ekleyin, tuz ve karabiberi ilave edin. Ardından suyu ekleyip kısık ateşte sebzeler yumuşayana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Etli Nohut Yemeği",
+    "malzemeler": [
+      "300 gram dana kuşbaşı et",
+      "1 su bardağı nohut",
+      "1 adet soğan",
+      "2 adet domates",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı kimyon",
+      "1/2 çay bardağı zeytinyağı",
+      "6 su bardağı su"
+    ],
+    "yapilis": "Dana etini zeytinyağında kavurun. Soğanı, sarımsakları ve domatesleri doğrayıp ekleyin, karıştırarak pişirin. Nohutları yıkayıp ekleyin, baharatları (tuz, karabiber, pul biber, kimyon) ekleyin ve suyu ilave edin. Karışımı kaynamaya bırakın, sonra kısık ateşte nohutlar yumuşayana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Kıymalı Kabak Yemeği",
+    "malzemeler": [
+      "500 gram kıyma",
+      "3 adet kabak",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1 adet domates",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1/2 çay bardağı zeytinyağı",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Kıymayı zeytinyağında kavurun. Soğanı ve sarımsakları doğrayıp ekleyin, biraz daha kavurun. Domatesi doğrayıp karışıma ekleyin. Kabakları halka halka doğrayıp ekleyin, tuz ve karabiberle tatlandırın. Üzerine suyu ekleyip karıştırın, kısık ateşte kabaklar yumuşayana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Köfteli Patates Yemeği",
+    "malzemeler": [
+      "250 gram kıyma",
+      "1 adet soğan",
+      "1 adet patates",
+      "1 adet domates",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 su bardağı su",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Kıymayı, ince doğranmış soğan, tuz, karabiber ve pul biberle yoğurun. Karışımdan köfteler yapıp sıvı yağda kızartın. Patatesi doğrayıp kızaran köftelerin üzerine ekleyin ve karıştırın. Domatesi doğrayıp ekleyin, üzerine suyu ilave edin ve kısık ateşte patatesler yumuşayana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Yalancı Börek",
+    "malzemeler": [
+      "4 adet yufka",
+      "200 gram kıyma",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1/2 çay bardağı sıvı yağ",
+      "2 su bardağı süt",
+      "1 adet yumurta"
+    ],
+    "yapilis": "Kıymayı, ince doğranmış soğan ve sarımsakla sıvı yağda kavurun. Tuz ve karabiberle tatlandırın. Yufkaları tepsiye serin, her katına süt ve yumurta karışımından sürün. Kıymalı harcı yufkaların üzerine serin ve yufkaları rulo şeklinde sarın. Ruloları tepsiye dizip kalan sütlü karışımı üzerine dökün. 180°C fırında 30-35 dakika pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Mantar Sote",
+    "malzemeler": [
+      "500 gram mantar",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı kekik",
+      "1/2 çay bardağı zeytinyağı",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Mantarları temizleyip dilimleyin. Soğanı ve sarımsakları ince doğrayıp zeytinyağında kavurun. Mantarları ekleyip suyunu salıp çekene kadar soteleyin. Tuz, karabiber ve kekik ekleyip karıştırın. Ardından suyu ilave edip kısık ateşte mantarlar yumuşayana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Fırında Beşamel Soslu Karnabahar",
+    "malzemeler": [
+      "1 adet karnıbahar",
+      "2 yemek kaşığı tereyağı",
+      "1 yemek kaşığı un",
+      "1 su bardağı süt",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 su bardağı rendelenmiş kaşar peyniri"
+    ],
+    "yapilis": "Karnıbaharı çiçeklerine ayırıp haşlayın. Tereyağında unu kavurun, ardından sütü ekleyip karıştırarak beşamel sosu hazırlayın. Tuz ve karabiber ekleyin. Haşlanmış karnıbaharı bir fırın kabına yerleştirip üzerine beşamel sosu dökün. Rendelenmiş kaşar peynirini serpin ve 180°C fırında 20-25 dakika, üzeri altın rengini alana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Mercimekli Kısır",
+    "malzemeler": [
+      "1 su bardağı kırmızı mercimek",
+      "1 su bardağı ince bulgur",
+      "1 adet soğan",
+      "1 adet domates",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı nane",
+      "1 tatlı kaşığı limon suyu",
+      "1/2 çay bardağı zeytinyağı",
+      "2 su bardağı su"
+    ],
+    "yapilis": "Kırmızı mercimeği yıkayıp, tencereye alıp üzerine 2 su bardağı suyu ekleyin ve mercimekler yumuşayana kadar haşlayın. Haşlanan mercimeği ocaktan alıp, bulguru ekleyin ve karıştırarak şişmesini bekleyin. Zeytinyağını bir tavada ısıtıp, doğranmış soğanı pembeleşene kadar kavurun. Domatesi doğrayıp, soğanla birlikte karıştırın. Tuz, pul biber, nane, limon suyu ve şişen bulgurlu karışımı ekleyip karıştırın. Soğuyana kadar bekledikten sonra soğuk servis yapın."
+  },
+  {
+    "yemekAdi": "Taratorlu Kısır",
+    "malzemeler": [
+      "1 su bardağı ince bulgur",
+      "1 adet salatalık",
+      "1/2 su bardağı yoğurt",
+      "2 yemek kaşığı mayonez",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı nane",
+      "1/2 çay bardağı zeytinyağı",
+      "2 su bardağı sıcak su"
+    ],
+    "yapilis": "Bulguru geniş bir kaba alıp, üzerine sıcak suyu dökün ve karıştırarak bulgurların şişmesini bekleyin. Salatalığı rendeleyin ve fazla suyunu sıkın. Bulgurlar şiştikten sonra, yoğurt, mayonez, zeytinyağı, tuz, pul biber ve naneyi ekleyin. Salatalığı da karışıma ekleyip iyice karıştırın. Soğuyana kadar buzdolabında bekletin ve soğuk servis yapın."
+  },
+  {
+    "yemekAdi": "Fırında Sebzeli Tavuk",
+    "malzemeler": [
+      "4 adet tavuk göğsü",
+      "2 adet patates",
+      "2 adet havuç",
+      "1 adet kabak",
+      "2 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı kekik",
+      "1 tatlı kaşığı pul biber",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Tavuk göğüslerini yıkayıp, tuz, karabiber, kekik ve pul biberle ovun. Sebzeleri (patates, havuç ve kabak) doğrayın ve bir kaba alın. Zeytinyağını ekleyip karıştırın. Fırın tepsisine tavukları ve sebzeleri dizin, üzerine suyu ekleyin. Önceden ısıtılmış 180°C fırında tavuklar ve sebzeler pişene kadar, yaklaşık 35-40 dakika pişirin. Fırından çıkarıp sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Sebzeli Börek",
+    "malzemeler": [
+      "2 adet yufka",
+      "1 adet havuç",
+      "1 adet kabak",
+      "1/2 çay bardağı zeytinyağı",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı pul biber",
+      "1 çay bardağı süt",
+      "1 yumurta"
+    ],
+    "yapilis": "Soğanı ince ince doğrayın ve zeytinyağında kavurun. Havuç ve kabakları rendeleyip, soğana ekleyin. Tuz ve pul biberi ilave edip sebzeler yumuşayana kadar kavurun. Yufkaları serip üzerine sütü ve yumurtayı karıştırıp sürün. Sebzeli karışımı yufkaların üzerine koyup, rulo şeklinde sarın. Yağlı kağıt serili tepsiye yerleştirin ve üzerini sütlü karışımla fırçalayın. 180°C fırında 20-25 dakika pişirin. Fırından çıkarıp sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Mercimekli Karnıbahar",
+    "malzemeler": [
+      "1/2 karnıbahar",
+      "1 su bardağı yeşil mercimek",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı karabiber",
+      "1/2 çay bardağı zeytinyağı",
+      "2 su bardağı su"
+    ],
+    "yapilis": "Mercimeği yıkayıp, tencereye alıp üzerini geçecek kadar su ekleyin ve mercimekler yumuşayana kadar haşlayın. Karnıbaharı küçük parçalara ayırıp, tuzlu suda haşlayın. Zeytinyağını bir tavada ısıtıp, doğranmış soğan ve sarımsakları kavurun. Haşlanmış mercimekleri ve karnıbaharı tavaya ekleyin, karabiber, pul biberi ilave edin ve 2 su bardağı suyu ekleyin. Kısık ateşte yaklaşık 10 dakika pişirin. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Karnıbahar Graten",
+    "malzemeler": [
+      "1 adet karnıbahar",
+      "1 su bardağı süt",
+      "1 yemek kaşığı tereyağı",
+      "1 yemek kaşığı un",
+      "1 su bardağı rendelenmiş kaşar peyniri",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 çay kaşığı muskat rendesi"
+    ],
+    "yapilis": "Karnıbaharı küçük parçalara ayırıp, tuzlu suda haşlayın. Suda haşlanan karnıbaharı süzüp, bir fırın kabına yerleştirin. Tereyağını bir tavada eritin, unu ekleyip kavurun. Ardından sütü ekleyin ve karıştırarak koyu bir beşamel sos hazırlayın. Tuz, karabiber ve muskat rendesini de ekleyip, karıştırın. Hazırladığınız beşamel sosu karnıbaharların üzerine dökün ve üzerine rendelenmiş kaşar peyniri serpin. 180°C fırında üzeri kızarana kadar pişirin. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Fırın Tavuk Kanat",
+    "malzemeler": [
+      "6 adet tavuk kanat",
+      "1 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı kekik",
+      "1 tatlı kaşığı pul biber",
+      "2 diş sarımsak"
+    ],
+    "yapilis": "Tavuk kanatlarını yıkayıp, bir kaba alın. Zeytinyağı, tuz, karabiber, kekik, pul biber ve ezilmiş sarımsakları ekleyin. Kanatları bu karışıma iyice bulayın ve en az 30 dakika marine edin. Önceden ısıtılmış 180°C fırında tavuk kanatlarını yaklaşık 35-40 dakika pişirin, üzeri altın rengini alana kadar pişirmeye devam edin. Fırından çıkarıp sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Sebzeli Kumpir",
+    "malzemeler": [
+      "4 adet patates",
+      "1 adet havuç",
+      "1 adet kornişon turşusu",
+      "1/2 su bardağı rendelenmiş kaşar peyniri",
+      "1 yemek kaşığı tereyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1/2 su bardağı mısır",
+      "1 tatlı kaşığı mayonez"
+    ],
+    "yapilis": "Patatesleri yıkayıp, üzerini geçecek kadar suyla haşlayın. Haşlanan patatesleri soyup, bir kaba alıp ezin. Üzerine tereyağı, tuz ve karabiberi ekleyip karıştırın. Havuçu rendeleyin, kornişon turşusunu doğrayın ve mısırı hazırlayın. Patates karışımına rendelenmiş kaşar peynirini ve mayonezi ekleyip karıştırın. Hazırladığınız karışımı fırın tepsisine alıp, 180°C fırında 15 dakika pişirin. Fırından çıkarıp sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Fırın Makarna",
+    "malzemeler": [
+      "250 gram makarna",
+      "1 su bardağı rendelenmiş kaşar peyniri",
+      "1 su bardağı süt",
+      "1 yemek kaşığı tereyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 yemek kaşığı un"
+    ],
+    "yapilis": "Makarnayı tuzlu suda haşlayın ve süzün. Tereyağını bir tavada eritin, üzerine unu ekleyip kavurun. Ardından sütü ekleyip, karıştırarak beşamel sos kıvamına gelene kadar pişirin. Tuz ve karabiberi ekleyin. Haşlanmış makarnayı bu sosla karıştırın ve fırın kabına dökün. Üzerine rendelenmiş kaşar peynirini serpin. Önceden ısıtılmış 180°C fırında 15-20 dakika, üzeri altın rengini alana kadar pişirin. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Mantarlı Börek",
+    "malzemeler": [
+      "500 gram mantar",
+      "1 adet yufka",
+      "1 su bardağı beyaz peynir",
+      "1/2 su bardağı sıvı yağ",
+      "1 adet yumurta",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber"
+    ],
+    "yapilis": "Mantarları temizleyip doğrayın, tuz, karabiber ve pul biber ile tatlandırın. Beyaz peyniri ezip, mantarlarla karıştırın. Yufkayı tezgaha serip, üzerine sıvı yağı sürün. Hazırladığınız mantar karışımını yufkaya yerleştirip, rulo şeklinde sarın. Üzerine çırpılmış yumurta sürüp, önceden ısıtılmış 180°C fırında 25-30 dakika pişirin. Fırından çıkarıp sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Sebzeli Bulgur Pilavı",
+    "malzemeler": [
+      "2 su bardağı bulgur",
+      "1 adet soğan",
+      "2 adet domates",
+      "1 adet havuç",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "2 yemek kaşığı sıvı yağ",
+      "2 su bardağı su"
+    ],
+    "yapilis": "Soğanı ince doğrayıp sıvı yağda kavurun. Havuçu ve domatesleri ekleyip birkaç dakika soteleyin. Bulguru ekleyin ve karıştırarak birkaç dakika kavurun. Baharatları (tuz, karabiber, pul biber) ekleyin, ardından suyu ilave edip karıştırın. Kısık ateşte pilav suyunu çekene kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Süleymanpaşa Çorbası",
+    "malzemeler": [
+      "1 su bardağı yeşil mercimek",
+      "1 adet soğan",
+      "1 adet domates",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 yemek kaşığı tereyağı",
+      "6 su bardağı su"
+    ],
+    "yapilis": "Yeşil mercimekleri yıkayıp süzün. Tereyağında soğanı ve sarımsakları kavurun, ardından doğranmış domatesleri ekleyin. Mercimekleri ve baharatları (tuz, karabiber, pul biber) ekleyin, suyu ilave edip karıştırın. Çorbayı kaynamaya bırakın, ardından kısık ateşte mercimekler yumuşayana kadar pişirin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Zeytinyağlı Pirinç Pilavı",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "3 su bardağı su",
+      "1 tatlı kaşığı tuz",
+      "2 yemek kaşığı zeytinyağı",
+      "1 adet soğan",
+      "1 tatlı kaşığı şeker"
+    ],
+    "yapilis": "Soğanı ince ince doğrayıp zeytinyağında pembeleşene kadar kavurun. Ardından pirinci ekleyip birkaç dakika kavurun, böylece pirinçler yağla iyice karışacak. Suyu, tuzu ve şekeri ekleyip karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp pilavın suyunu tamamen çekene kadar pişirin. Pilav piştikten sonra demlenmesi için 10-15 dakika kapağını kapalı tutarak bekletin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Şehriyeli Pilav",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "1 su bardağı şehriye",
+      "3 su bardağı su",
+      "2 yemek kaşığı tereyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber"
+    ],
+    "yapilis": "Öncelikle şehriyeleri tereyağında kavurun, şehriyeler altın rengi olana kadar karıştırarak kavurmaya devam edin. Ardından pirinci ekleyip 2-3 dakika daha kavurun. Suyu, tuzu ve karabiberi ekleyin, karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp pilavın suyunu çekene kadar pişirin. Pilav piştikten sonra demlenmesi için 10-15 dakika kapağını kapalı tutarak bekletin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Sebzeli Pilav",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "1 adet havuç",
+      "1 adet kabak",
+      "1/2 su bardağı bezelye",
+      "3 su bardağı su",
+      "1 tatlı kaşığı tuz",
+      "2 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Öncelikle şehriyeleri tereyağında kavurun, şehriyeler altın rengi olana kadar karıştırarak kavurmaya devam edin. Ardından pirinci ekleyip 2-3 dakika daha kavurun. Suyu, tuzu ve karabiberi ekleyin, karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp pilavın suyunu çekene kadar pişirin. Pilav piştikten sonra demlenmesi için 10-15 dakika kapağını kapalı tutarak bekletin. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Cevizli Bulgur Pilavı",
+    "malzemeler": [
+      "2 su bardağı bulgur",
+      "1 su bardağı ceviz içi",
+      "2 su bardağı su",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "2 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Soğanı ince doğrayıp sıvı yağda pembeleşene kadar kavurun. Bulguru ekleyip birkaç dakika kavurun. Ardından suyu, tuzu ve karabiberi ekleyip karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp bulgurlar suyunu çekene kadar pişirin. Piştikten sonra cevizi ekleyin, karıştırın ve 10-15 dakika demlenmeye bırakın. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Köfteli Pilav",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "200 gram köfte harcı",
+      "3 su bardağı su",
+      "1 adet soğan",
+      "2 yemek kaşığı sıvı yağ",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber"
+    ],
+    "yapilis": "Köfte harcını soğan, tuz ve karabiberle yoğurup küçük köfteler şekline getirin. Sıvı yağda köfteleri her tarafı güzelce kızarana kadar pişirin. Ayrı bir tencerede, pirinci yıkayıp 2-3 dakika sıvı yağda kavurun. Ardından suyu ve tuzu ekleyip karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp pilavın suyunu çekene kadar pişirin. Pilav piştikten sonra köfteleri ekleyin ve 10-15 dakika demlenmeye bırakın. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Nohutlu Pilav",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "1 su bardağı haşlanmış nohut",
+      "3 su bardağı su",
+      "1 tatlı kaşığı tuz",
+      "2 yemek kaşığı tereyağı",
+      "1 adet soğan"
+    ],
+    "yapilis": "Soğanı ince doğrayıp tereyağında kavurun. Pirinci ekleyip 2-3 dakika kavurun. Ardından haşlanmış nohut, su ve tuzu ekleyip karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp pilavın suyunu çekene kadar pişirin. Pilav piştikten sonra 10-15 dakika demlenmeye bırakın. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Domatesli Pirinç Pilavı",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "1 adet domates",
+      "3 su bardağı su",
+      "1 tatlı kaşığı tuz",
+      "2 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Domatesi küçük küpler halinde doğrayın. Sıvı yağda domatesi birkaç dakika kavurun. Pirinci ekleyip 2-3 dakika kavurun. Ardından suyu ve tuzu ekleyin, karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp pilavın suyunu çekene kadar pişirin. Pilav piştikten sonra 10-15 dakika demlenmeye bırakın. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Pirinç Pilavı ve Kızarmış Tavuk",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "3 su bardağı su",
+      "1 tatlı kaşığı tuz",
+      "2 yemek kaşığı sıvı yağ",
+      "1 adet tavuk but",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber"
+    ],
+    "yapilis": "Pirinci yıkayıp 2 yemek kaşığı sıvı yağda birkaç dakika kavurun. Ardından suyu ve tuzu ekleyip karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp pilavın suyunu çekene kadar pişirin. Pilav piştikten sonra 10-15 dakika demlenmeye bırakın. Tavuk butlarını karabiber ve pul biberle baharatlayıp sıvı yağda her tarafını kızarana kadar kızartın. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Fıstıklı Pilav",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "1/2 su bardağı çam fıstığı",
+      "3 su bardağı su",
+      "1 tatlı kaşığı tuz",
+      "2 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Pirinçleri yıkayıp sıvı yağda birkaç dakika kavurun. Çam fıstıklarını ekleyip birlikte kavurmaya devam edin. Ardından suyu ve tuzu ekleyip karıştırın. Karışımı kaynamaya bırakın, kaynadıktan sonra ocağın altını kısıp pilavın suyunu çekene kadar pişirin. Pilav piştikten sonra 10-15 dakika demlenmeye bırakın. Sıcak servis edin."
+  },
+  {
+    "yemekAdi": "Revani",
+    "malzemeler": [
+      "1 su bardağı irmik",
+      "1 su bardağı un",
+      "1 su bardağı şeker",
+      "1/2 su bardağı yoğurt",
+      "1/2 su bardağı sıvı yağ",
+      "1 paket kabartma tozu",
+      "1 paket vanilin",
+      "3 adet yumurta",
+      "1/2 su bardağı süt",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Yumurtaları ve şekeri çırpın, yoğurdu, sıvı yağı, sütü ekleyin ve karıştırın. Ardından irmik, un, kabartma tozu ve vanilini ekleyip karıştırarak pürüzsüz bir hamur elde edin. Hamuru yağlanmış fırın tepsisine dökün ve 180°C fırında yaklaşık 30-35 dakika pişirin. Şerbet için su ve şekerin karışımını kaynatın, şerbet kaynadıktan sonra üzerine birkaç damla limon suyu ekleyin. Fırından çıkan revaniyi sıcak şerbetle dökün ve 15 dakika bekletin. Soğuduktan sonra dilimleyerek servis edin."
+  },
+  {
+    "yemekAdi": "Muhallebi",
+    "malzemeler": [
+      "1 litre süt",
+      "1 su bardağı şeker",
+      "1 yemek kaşığı un",
+      "1 yemek kaşığı nişasta",
+      "1 paket vanilin",
+      "1 yemek kaşığı tereyağı"
+    ],
+    "yapilis": "Sütü ve şekeri bir tencereye alıp karıştırın, ardından un ve nişastayı ekleyin. Karışımı ocağa alıp, karıştırarak koyulaşana kadar pişirin. Koyu kıvam aldıktan sonra vanilini ve tereyağını ekleyin, karıştırarak eritin. Muhallebiye istediğiniz şekli vermek için bir kaseye dökün ve soğumaya bırakın. Soğuduktan sonra üzerini isteğe göre tarçın veya meyve ile süsleyerek servis edin."
+  },
+  {
+    "yemekAdi": "Tavuk Göğsü Tatlısı",
+    "malzemeler": [
+      "1 litre süt",
+      "1 su bardağı şeker",
+      "1 yemek kaşığı nişasta",
+      "1 yemek kaşığı un",
+      "1 paket vanilin",
+      "1 yemek kaşığı tereyağı",
+      "1 adet tavuk göğsü"
+    ],
+    "yapilis": "Süt, şeker, nişasta ve unu bir tencereye alıp karıştırın. Karışımı ocağa alıp, sürekli karıştırarak koyulaşana kadar pişirin. Ardından vanilin ve tereyağını ekleyip karıştırın. Karışımı bir kaseye dökün ve soğumaya bırakın. Soğuduktan sonra dilimleyip servis edin."
+  },
+  {
+    "yemekAdi": "Aşure",
+    "malzemeler": [
+      "1 su bardağı buğday",
+      "1 su bardağı nohut",
+      "1 su bardağı kuru fasulye",
+      "1 su bardağı kuş üzümü",
+      "1 su bardağı fındık",
+      "1 su bardağı ceviz",
+      "2 adet karanfil",
+      "1 tatlı kaşığı tarçın",
+      "1 su bardağı şeker",
+      "1 çay bardağı portakal suyu"
+    ],
+    "yapilis": "Buğdayı, nohut ve kuru fasulyeyi ayrı ayrı haşlayın. Kuş üzümünü, fındığı ve cevizi de hazırlayın. Büyük bir tencereye haşlanmış buğday, nohut, fasulye, kuş üzümü, fındık ve cevizi ekleyin. Karışıma su ekleyip karıştırarak kaynamaya bırakın. Kaynadıktan sonra karanfil, tarçın, şeker ve portakal suyunu ekleyin, karıştırarak 10-15 dakika daha pişirin. Aşureyi kaselere dökün, soğutun ve üzerine ceviz veya fındıkla süsleyerek servis edin."
+  },
+  {
+    "yemekAdi": "Kazandibi",
+    "malzemeler": [
+      "1 litre süt",
+      "1 su bardağı şeker",
+      "1 su bardağı un",
+      "1 su bardağı irmik",
+      "1 yemek kaşığı tereyağı",
+      "1 paket vanilin"
+    ],
+    "yapilis": "Sütü ve şekeri bir tencereye alıp karıştırın, ardından unu ve irmiği ekleyin. Karışımı ocağa alıp, karıştırarak koyulaşana kadar pişirin. Koyu kıvam aldıktan sonra vanilini ve tereyağını ekleyin, karıştırarak eritin. Kazandibi karışımını yağlı kağıt serili bir tepsiye dökün ve soğumaya bırakın. Soğuduktan sonra dilimleyerek servis edin."
+  },
+  {
+    "yemekAdi": "İrmik Helvası",
+    "malzemeler": [
+      "1 su bardağı irmik",
+      "1 su bardağı şeker",
+      "1 su bardağı süt",
+      "1 su bardağı su",
+      "1/2 su bardağı tereyağı",
+      "1 tatlı kaşığı vanilin",
+      "1/2 su bardağı ceviz"
+    ],
+    "yapilis": "Tereyağını bir tencerede eritin, irmiği ekleyin ve rengi hafifçe değişene kadar kavurun. Ardından şekeri, sütü, suyu ve vanilini ekleyin, karıştırarak kaynamaya bırakın. Karışım kaynadıktan sonra altını kısıp, irmik suyunu çekene kadar kısık ateşte pişirin. Cevizi ekleyip karıştırın. Helvayı demlenmeye bırakıp, sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Çikolatalı Sufle",
+    "malzemeler": [
+      "200 gram bitter çikolata",
+      "2 yemek kaşığı tereyağı",
+      "2 adet yumurta",
+      "1/4 su bardağı şeker",
+      "2 yemek kaşığı un",
+      "1 tatlı kaşığı vanilin"
+    ],
+    "yapilis": "Bitter çikolatayı ve tereyağını benmari usulü eritin. Ayrı bir kapta yumurtaları ve şekeri çırpın. Erimiş çikolatayı yumurtalı karışıma ekleyip karıştırın. Unu ve vanilini ekleyin ve karıştırmaya devam edin. Karışımı tereyağıyla yağladığınız sufle kaplarına dökün. Önceden ısıtılmış 180°C fırında 12-15 dakika pişirin. Fırından çıkarıp sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Kadayıf Dolması",
+    "malzemeler": [
+      "250 gram kadayıf",
+      "1 su bardağı ceviz",
+      "1 su bardağı şeker",
+      "1 su bardağı su",
+      "1 yemek kaşığı tereyağı",
+      "1 tatlı kaşığı tarçın"
+    ],
+    "yapilis": "Kadayıfı tereyağında kavurun. Cevizleri ekleyip karıştırın. Kadayıfı cevizlerle karıştırın ve kadayıfı cevizlerle doldurun. Şeker ve suyu bir tencerede kaynatın. Kadayıfların üzerine şerbeti dökün. Tarçın serpip servis yapın."
+  },
+  {
+    "yemekAdi": "Kabak Tatlısı",
+    "malzemeler": [
+      "1 kg kabak",
+      "2 su bardağı şeker",
+      "1 su bardağı su",
+      "1 tatlı kaşığı tarçın",
+      "1 su bardağı ceviz"
+    ],
+    "yapilis": "Kabakları rendeleyin. Şeker ve suyu bir tencerede kaynatın. Kabakları ekleyip karıştırın. Kabaklar yumuşayana kadar pişirin. Tarçını ekleyip karıştırın. Cevizleri ekleyip karıştırın. Soğuduktan sonra servis yapın."
+  },
+  {
+    "yemekAdi": "Fırın Sütlaç",
+    "malzemeler": [
+      "1 litre süt",
+      "1 su bardağı pirinç",
+      "1 su bardağı şeker",
+      "1 yemek kaşığı nişasta",
+      "1 paket vanilin",
+      "1 su bardağı su",
+      "1 su bardağı süt"
+    ],
+    "yapilis": "Pirinci yıkayıp süzün. Süt, pirinç ve şekeri bir tencereye alıp karıştırın. Karışımı ocağa alıp, sürekli karıştırarak koyulaşana kadar pişirin. Koyu kıvam aldıktan sonra vanilini ekleyin, karıştırarak eritin. Fırın tepsisine dökün. Üzerine su ve süt karışımını dökün. Önceden ısıtılmış 180°C fırında 30-35 dakika pişirin. Fırından çıkarıp soğuduktan sonra servis yapın."
+  },
+  {
+    "yemekAdi": "Sebzeli Tavuk Güveç",
+    "malzemeler": [
+      "500 gram tavuk göğsü",
+      "2 adet havuç",
+      "1 adet patates",
+      "2 adet domates",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı kekik",
+      "2 yemek kaşığı zeytinyağı",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Tüm malzemeleri doğrayıp güveç kabına yerleştirin. Baharatları ve zeytinyağını ekleyip karıştırın. 180°C fırında 45 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Kabaklı Bulgur Pilavı",
+    "malzemeler": [
+      "2 su bardağı bulgur",
+      "1 adet kabak",
+      "1 adet soğan",
+      "2 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı pul biber",
+      "3 su bardağı su"
+    ],
+    "yapilis": "Soğanı ve kabağı doğrayıp zeytinyağında soteleyin. Bulguru ekleyip kavurun, suyu ve baharatları ekleyin. Kısık ateşte suyunu çekene kadar pişirin."
+  },
+  {
+    "yemekAdi": "Mantarlı Tavuk Sote",
+    "malzemeler": [
+      "500 gram tavuk göğsü",
+      "200 gram mantar",
+      "1 adet soğan",
+      "2 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı kekik"
+    ],
+    "yapilis": "Tavukları ve mantarları doğrayın. Soğanı zeytinyağında soteleyin, tavukları ekleyip kavurun. Mantarları ekleyip baharatlarla tatlandırın. 10 dakika daha pişirin."
+  },
+  {
+    "yemekAdi": "Brokoli Çorbası",
+    "malzemeler": [
+      "500 gram brokoli",
+      "1 adet patates",
+      "1 adet soğan",
+      "1 su bardağı süt",
+      "2 yemek kaşığı tereyağı",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı karabiber"
+    ],
+    "yapilis": "Brokoli, patates ve soğanı doğrayıp haşlayın. Blenderdan geçirip süt, tereyağı ve baharatları ekleyin. 5 dakika kaynatın."
+  },
+  {
+    "yemekAdi": "Fırında Tavuklu Sebzeli Güveç",
+    "malzemeler": [
+      "1 kg tavuk budu",
+      "3 adet patates",
+      "2 adet havuç",
+      "2 diş sarımsak",
+      "1 tatlı kaşığı kekik",
+      "1 çay bardağı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 su bardağı su"
+    ],
+    "yapilis": "Sebzeleri doğrayın ve tavuklarla karıştırın. Baharatları ekleyip güveç kabına koyun, su ve zeytinyağı ekleyip 200°C fırında 50 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Sebzeli Mercimek Çorbası",
+    "malzemeler": [
+      "1 su bardağı kırmızı mercimek",
+      "1 adet soğan",
+      "2 adet havuç",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı kimyon",
+      "2 yemek kaşığı sıvı yağ",
+      "6 su bardağı su"
+    ],
+    "yapilis": "Soğan ve havuçları doğrayıp sıvı yağda kavurun. Mercimek ve suyu ekleyip kaynatın. Blenderdan geçirin ve baharatları ekleyip karıştırın."
+  },
+  {
+    "yemekAdi": "Patlıcanlı Musakka",
+    "malzemeler": [
+      "4 adet patlıcan",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 yemek kaşığı salça",
+      "2 yemek kaşığı zeytinyağı"
+    ],
+    "yapilis": "Patlıcanları kızartın. Soğan ve kıymayı zeytinyağında kavurun, salça ve baharatları ekleyin. Kat kat dizip fırında 30 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Domatesli Şehriye Çorbası",
+    "malzemeler": [
+      "1 su bardağı arpa şehriye",
+      "2 adet domates",
+      "1 tatlı kaşığı salça",
+      "1 tatlı kaşığı tuz",
+      "2 yemek kaşığı sıvı yağ",
+      "6 su bardağı su",
+      "1 çay kaşığı nane"
+    ],
+    "yapilis": "Domates ve salçayı sıvı yağda kavurun. Şehriyeyi ekleyip karıştırın, su ve baharatları ekleyip kaynatın."
+  },
+  {
+    "yemekAdi": "Karnabahar Graten",
+    "malzemeler": [
+      "1 adet karnabahar",
+      "1 su bardağı süt",
+      "1 su bardağı rendelenmiş kaşar peyniri",
+      "1 yemek kaşığı tereyağı",
+      "1 yemek kaşığı un",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber"
+    ],
+    "yapilis": "Karnabaharı haşlayın ve fırın kabına yerleştirin. Üzerine kaşar peyniri serpin. Beşamel sos için tereyağını eritin, unu ekleyip kavurun. Sütü ekleyip karıştırarak beşamel sos kıvamına gelene kadar pişirin. Tuz ve karabiberi ekleyin. Beşamel sosu karnabaharın üzerine dökün. Önceden ısıtılmış 180°C fırında 15-20 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Fırında Patates",
+    "malzemeler": [
+      "4 adet patates",
+      "1 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı kekik",
+      "1 tatlı kaşığı pul biber"
+    ],
+    "yapilis": "Patates dilimlerini zeytinyağı ve baharatlarla karıştırın. Fırın tepsisine dizin. Önceden ısıtılmış 200°C fırında 30 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Kıymalı Börek",
+    "malzemeler": [
+      "3 su bardağı un",
+      "1 su bardağı su",
+      "1 tatlı kaşığı tuz",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1/2 su bardağı sıvı yağ"
+    ],
+    "yapilis": "Un, su ve tuzu karıştırıp hamur yoğurun. Soğanı ve kıymayı sıvı yağda kavurun, baharatları ekleyin. Hamuru açıp iç harcı koyup rulo şeklinde sarın. Üzerine yumurta sarısı sürüp 180°C fırında 30 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Kıymalı Patates",
+    "malzemeler": [
+      "4 adet patates",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Patatesleri soyup yuvarlak dilimleyin. Kıymayı ve soğanı sıvı yağda kavurun, baharatları ekleyin. Patateslerin arasına kıymalı harçtan koyun. Üzerine alüminyum folyo kapatıp 180°C fırında 30 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Karnabahar Kızartması",
+    "malzemeler": [
+      "1 adet karnabahar",
+      "1 su bardağı un",
+      "1 su bardağı süt",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 su bardağı sıvı yağ"
+    ],
+    "yapilis": "Karnabaharı çiçeklerine ayırın ve haşlayın. Un, süt ve baharatları karıştırın. Karnabaharları bu karışıma bulayın ve kızartın."
+  },
+  {
+    "yemekAdi": "Kıymalı Ispanak",
+    "malzemeler": [
+      "500 gram ıspanak",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Ispanakları doğrayın. Soğanı ve kıymayı sıvı yağda kavurun, baharatları ekleyin. Ispanakları ekleyip 10 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Kıymalı Nohut",
+    "malzemeler": [
+      "2 su bardağı haşlanmış nohut",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Soğanı ve kıymayı sıvı yağda kavurun, baharatları ekleyin. Haşlanmış nohutları ekleyip 10 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Kıymalı Bezelye",
+    "malzemeler": [
+      "2 su bardağı bezelye",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Soğanı ve kıymayı sıvı yağda kavurun, baharatları ekleyin. Bezelyeleri ekleyip 10 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Kıymalı Enginar",
+    "malzemeler": [
+      "4 adet enginar",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Enginarları haşlayın. Soğanı ve kıymayı sıvı yağda kavurun, baharatları ekleyin. Enginarları ekleyip 10 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Kıymalı Pırasa",
+    "malzemeler": [
+      "4 adet pırasa",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı karabiber",
+      "1 tatlı kaşığı pul biber",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Pırasaları doğrayın. Soğanı ve kıymayı sıvı yağda kavurun, baharatları ekleyin. Pırasaları ekleyip 10 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Sebzeli Kuskus",
+    "malzemeler": [
+      "2 su bardağı kuskus",
+      "1 adet kabak",
+      "1 adet havuç",
+      "1 adet kırmızı biber",
+      "2 yemek kaşığı zeytinyağı",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Kuskusu tuzlu suda haşlayıp süzün. Sebzeleri küp küp doğrayıp zeytinyağında soteleyin. Kuskusu sebzelerle karıştırıp tuz ve karabiber ekleyerek sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Ispanaklı Börek",
+    "malzemeler": [
+      "4 adet yufka",
+      "500 gram ıspanak",
+      "1 adet soğan",
+      "200 gram beyaz peynir",
+      "1 çay bardağı süt",
+      "1 çay bardağı sıvı yağ",
+      "1 adet yumurta",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Ispanakları doğrayıp yıkayın. Soğanı ince doğrayarak soteleyin, üzerine ıspanakları ekleyin. Beyaz peynir, tuz ve karabiberle karıştırın. Yufkaları süt, sıvı yağ ve yumurta karışımıyla ıslatın. Harcı yufkaların içine koyup sarın. Üzerine yumurta sarısı sürerek 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Tavuklu Noodle",
+    "malzemeler": [
+      "200 gram noodle",
+      "1 adet tavuk göğsü",
+      "1 adet havuç",
+      "1 adet yeşil biber",
+      "2 yemek kaşığı soya sosu",
+      "1 yemek kaşığı sıvı yağ",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Noodle'ı haşlayıp süzün. Tavuk göğsünü küçük parçalara ayırıp sıvı yağda soteleyin. Havuç ve biberleri ince ince doğrayıp ekleyin. Soya sosu, tuz ve karabiber ekleyerek karıştırın. Haşlanmış noodle ile birleştirip sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Yoğurtlu Kabak Mezesi",
+    "malzemeler": [
+      "2 adet kabak",
+      "1 su bardağı yoğurt",
+      "2 diş sarımsak",
+      "2 yemek kaşığı zeytinyağı",
+      "Tuz"
+    ],
+    "yapilis": "Kabakları rendeleyip zeytinyağında soteleyin. Soğuduktan sonra yoğurt ve ezilmiş sarımsakla karıştırın. Üzerine tuz ekleyip servis yapın."
+  },
+  {
+    "yemekAdi": "Zeytinyağlı Bamya",
+    "malzemeler": [
+      "500 gram bamya",
+      "2 adet domates",
+      "1 adet soğan",
+      "2 yemek kaşığı zeytinyağı",
+      "1 yemek kaşığı limon suyu",
+      "Tuz"
+    ],
+    "yapilis": "Bamyaları temizleyip limonlu suda bekletin. Soğanı zeytinyağında kavurup domatesleri ekleyin. Bamyaları tencereye koyup üzerini geçecek kadar su ve limon suyu ekleyin. Kısık ateşte pişirin."
+  },
+  {
+    "yemekAdi": "Fırında Sebzeli Köfte",
+    "malzemeler": [
+      "300 gram kıyma",
+      "1 adet soğan",
+      "1 adet patates",
+      "1 adet havuç",
+      "1 adet kabak",
+      "1 adet domates",
+      "2 yemek kaşığı zeytinyağı",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Kıymayı rendelenmiş soğan, tuz ve karabiberle yoğurun, köfte şekli verin. Sebzeleri doğrayıp fırın kabına koyun. Üzerine köfteleri ekleyin. Zeytinyağı gezdirip önceden ısıtılmış 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Patates Graten",
+    "malzemeler": [
+      "4 adet patates",
+      "1 su bardağı süt",
+      "1 yemek kaşığı tereyağı",
+      "1 yemek kaşığı un",
+      "1 su bardağı kaşar peyniri",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Patatesleri dilimleyip haşlayın. Tereyağını eritip unu kavurun, sütü ekleyerek beşamel sos hazırlayın. Fırın kabına patatesleri dizip üzerine sosu dökün. Rendelenmiş kaşar peyniri serpip fırında üzeri kızarana kadar pişirin."
+  },
+  {
+    "yemekAdi": "Yoğurtlu Semizotu Salatası",
+    "malzemeler": [
+      "1 demet semizotu",
+      "1 su bardağı yoğurt",
+      "2 diş sarımsak",
+      "Tuz"
+    ],
+    "yapilis": "Semizotunu yıkayıp doğrayın. Yoğurdu ezilmiş sarımsak ve tuz ile karıştırın. Semizotlarını yoğurtla karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Pirinç Pilavı",
+    "malzemeler": [
+      "2 su bardağı pirinç",
+      "2.5 su bardağı su",
+      "2 yemek kaşığı tereyağı",
+      "1 yemek kaşığı sıvı yağ",
+      "Tuz"
+    ],
+    "yapilis": "Pirinçleri yıkayıp süzün. Tereyağı ve sıvı yağı tencerede ısıtın, pirinçleri kavurun. Üzerine su ve tuz ekleyip kısık ateşte suyunu çekene kadar pişirin. Dinlendikten sonra servis yapın."
+  },
+  {
+    "yemekAdi": "Trileçe",
+    "malzemeler": [
+      "5 adet yumurta",
+      "1 su bardağı şeker",
+      "1 su bardağı un",
+      "1 paket kabartma tozu",
+      "1 paket vanilin",
+      "1 litre süt",
+      "200 ml krema",
+      "Karamel sos"
+    ],
+    "yapilis": "Kek malzemelerini karıştırarak fırında pişirin. Süt ve kremayı karıştırıp keke dökün. Üzerine karamel sos ekleyerek servis yapın."
+  },
+  {
+    "yemekAdi": "Çikolatalı Brownie",
+    "malzemeler": [
+      "200 gram bitter çikolata",
+      "100 gram tereyağı",
+      "3 adet yumurta",
+      "1 su bardağı şeker",
+      "1 su bardağı un",
+      "1 paket vanilin"
+    ],
+    "yapilis": "Çikolatayı tereyağıyla eritip diğer malzemelerle karıştırın. Yağlı kağıt serili tepsiye döküp 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Sütlü İrmik Tatlısı",
+    "malzemeler": [
+      "1 litre süt",
+      "1 su bardağı irmik",
+      "1 su bardağı şeker",
+      "1 paket vanilin",
+      "1 yemek kaşığı tereyağı"
+    ],
+    "yapilis": "Süt, şeker ve irmiği karıştırarak pişirin. Ocaktan almadan vanilin ve tereyağını ekleyin. Kalıba döküp soğuduktan sonra servis yapın."
+  },
+  {
+    "yemekAdi": "Portakallı Kek",
+    "malzemeler": [
+      "3 adet yumurta",
+      "1 su bardağı şeker",
+      "1 su bardağı portakal suyu",
+      "1/2 su bardağı sıvı yağ",
+      "1 paket kabartma tozu",
+      "1 paket vanilin",
+      "2 su bardağı un"
+    ],
+    "yapilis": "Yumurta ve şekeri çırpıp diğer malzemeleri ekleyin. Karışımı kalıba döküp 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Narlı Kinoa Salatası",
+    "malzemeler": [
+      "1 su bardağı kinoa",
+      "1 adet nar",
+      "1 adet limon",
+      "2 yemek kaşığı zeytinyağı",
+      "Tuz",
+      "Maydanoz"
+    ],
+    "yapilis": "Kinoyı haşlayıp soğutun. Nar taneleri, limon suyu, zeytinyağı ve maydanozla karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Patates Salatası",
+    "malzemeler": [
+      "4 adet patates",
+      "1/2 çay bardağı zeytinyağı",
+      "1 adet limon",
+      "1 adet taze soğan",
+      "Tuz",
+      "Karabiber",
+      "Maydanoz"
+    ],
+    "yapilis": "Patatesleri haşlayıp doğrayın. Diğer malzemelerle karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Avokado Salatası",
+    "malzemeler": [
+      "2 adet avokado",
+      "1 adet limon",
+      "1 adet domates",
+      "Tuz",
+      "Zeytinyağı"
+    ],
+    "yapilis": "Avokadoları doğrayıp diğer malzemelerle karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Roka Salatası",
+    "malzemeler": [
+      "1 demet roka",
+      "1/2 limon suyu",
+      "2 yemek kaşığı zeytinyağı",
+      "Tuz"
+    ],
+    "yapilis": "Rokayı yıkayıp doğrayın. Limon suyu ve zeytinyağıyla karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Peynirli Poğaça",
+    "malzemeler": [
+      "2 su bardağı un",
+      "1/2 su bardağı yoğurt",
+      "1/2 su bardağı sıvı yağ",
+      "1 çay kaşığı tuz",
+      "1 paket kabartma tozu",
+      "200 gram beyaz peynir"
+    ],
+    "yapilis": "Hamur malzemelerini karıştırıp yoğurun. İçine beyaz peynir koyup şekil verin. 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "El Açması Börek",
+    "malzemeler": [
+      "4 su bardağı un",
+      "1 su bardağı su",
+      "1 çay kaşığı tuz",
+      "200 gram beyaz peynir",
+      "1/2 çay bardağı sıvı yağ"
+    ],
+    "yapilis": "Un, su ve tuzla hamur yoğurun. İnce açıp içine peynir koyarak sarın. Fırında pişirin."
+  },
+  {
+    "yemekAdi": "Sucuklu Pide",
+    "malzemeler": [
+      "500 gram un",
+      "1 su bardağı su",
+      "1/2 su bardağı süt",
+      "1 çay kaşığı tuz",
+      "100 gram sucuk",
+      "100 gram kaşar peyniri"
+    ],
+    "yapilis": "Hamuru yoğurup açın. Üzerine sucuk ve kaşar koyup kapatın. 200°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Tahinli Çörek",
+    "malzemeler": [
+      "3 su bardağı un",
+      "1 su bardağı süt",
+      "1/2 su bardağı sıvı yağ",
+      "200 gram tahin",
+      "1 çay bardağı toz şeker",
+      "1 paket maya"
+    ],
+    "yapilis": "Hamuru yoğurup mayalandırın. Açıp tahin ve şeker karışımını sürerek rulo yapın. Fırında pişirin."
+  },
+  {
+    "yemekAdi": "Tavuklu Sezar Salata",
+    "malzemeler": [
+      "1 adet tavuk göğsü",
+      "1 baş marul",
+      "1/2 su bardağı rendelenmiş parmesan",
+      "1/2 su bardağı kruton",
+      "2 yemek kaşığı mayonez",
+      "2 yemek kaşığı limon suyu",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Tavuğu ızgarada pişirip dilimleyin. Marulu doğrayıp kruton, parmesan ve tavuğu ekleyin. Mayonez, limon suyu, tuz ve karabiberle hazırladığınız sosu üzerine dökün."
+  },
+  {
+    "yemekAdi": "Buğday Salatası",
+    "malzemeler": [
+      "2 su bardağı haşlanmış buğday",
+      "1 su bardağı yoğurt",
+      "1 diş sarımsak",
+      "1/2 çay bardağı zeytinyağı",
+      "Tuz"
+    ],
+    "yapilis": "Buğdayı yoğurt, ezilmiş sarımsak ve zeytinyağı ile karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Zeytinyağlı Brokoli",
+    "malzemeler": [
+      "1 baş brokoli",
+      "2 yemek kaşığı zeytinyağı",
+      "1 adet limon",
+      "Tuz"
+    ],
+    "yapilis": "Brokoliyi buharda haşlayıp limon suyu ve zeytinyağı ile karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Meksika Fasulyesi Salatası",
+    "malzemeler": [
+      "1 su bardağı haşlanmış meksika fasulyesi",
+      "1 adet kırmızı biber",
+      "1 adet domates",
+      "1/2 çay bardağı zeytinyağı",
+      "Tuz",
+      "Limon suyu"
+    ],
+    "yapilis": "Tüm malzemeleri doğrayıp karıştırın. Üzerine zeytinyağı ve limon suyu gezdirerek servis yapın."
+  },
+  {
+    "yemekAdi": "Mahlepli Tuzlu Kurabiye",
+    "malzemeler": [
+      "2 su bardağı un",
+      "1 çay bardağı sıvı yağ",
+      "1/2 çay bardağı yoğurt",
+      "1 tatlı kaşığı mahlep",
+      "1 çay kaşığı tuz",
+      "1 paket kabartma tozu"
+    ],
+    "yapilis": "Tüm malzemeleri yoğurup hamur yapın. Şekil verip 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Dereotlu Kurabiye",
+    "malzemeler": [
+      "2 su bardağı un",
+      "1 çay bardağı sıvı yağ",
+      "1 çay bardağı yoğurt",
+      "1 tutam dereotu",
+      "1 çay kaşığı tuz",
+      "1 paket kabartma tozu"
+    ],
+    "yapilis": "Tüm malzemeleri karıştırıp hamur yapın. Şekil verip fırında pişirin."
+  },
+  {
+    "yemekAdi": "Zeytinli Açma",
+    "malzemeler": [
+      "4 su bardağı un",
+      "1 su bardağı süt",
+      "1/2 çay bardağı sıvı yağ",
+      "100 gram zeytin",
+      "1 tatlı kaşığı tuz",
+      "1 paket maya"
+    ],
+    "yapilis": "Hamuru yoğurup mayalandırın. Açıp zeytinleri ekleyerek rulo yapın. Üzerine yumurta sarısı sürüp pişirin."
+  },
+  {
+    "yemekAdi": "Krem Karamel",
+    "malzemeler": [
+      "1 litre süt",
+      "6 adet yumurta",
+      "1 su bardağı şeker",
+      "1 paket vanilin",
+      "1 çay bardağı su"
+    ],
+    "yapilis": "Şekeri ve suyu karamelize edip fırın kaplarına dökün. Yumurta, süt, şeker ve vanilini karıştırıp kalıplara ekleyin. Fırında su dolu tepside pişirin ve soğuk servis yapın."
+  },
+  {
+    "yemekAdi": "Nohutlu Yoğurtlu Salata",
+    "malzemeler": [
+      "2 su bardağı haşlanmış nohut",
+      "1 su bardağı yoğurt",
+      "1 diş sarımsak",
+      "1 yemek kaşığı zeytinyağı",
+      "Tuz",
+      "Maydanoz"
+    ],
+    "yapilis": "Nohutları yoğurt, ezilmiş sarımsak ve zeytinyağı ile karıştırın. Üzerine doğranmış maydanoz serpip servis yapın."
+  },
+  {
+    "yemekAdi": "Zeytinli Pide",
+    "malzemeler": [
+      "500 gram un",
+      "1 su bardağı su",
+      "1/2 su bardağı süt",
+      "1 tatlı kaşığı tuz",
+      "200 gram siyah zeytin",
+      "1 çay bardağı sıvı yağ"
+    ],
+    "yapilis": "Hamuru yoğurup mayalandırın. Zeytinleri doğrayıp hamurun üzerine yerleştirin. 200°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Kuzu Tandır",
+    "malzemeler": [
+      "1 kg kuzu eti",
+      "2 yemek kaşığı tereyağı",
+      "1 tatlı kaşığı tuz",
+      "1 çay bardağı su"
+    ],
+    "yapilis": "Kuzu etini tereyağında mühürleyin, üzerine suyu ekleyip kısık ateşte pişirin."
+  },
+  {
+    "yemekAdi": "Köfte",
+    "malzemeler": [
+      "500 gram kıyma",
+      "1 adet kuru soğan",
+      "1 çay bardağı galeta unu",
+      "1 tatlı kaşığı tuz"
+    ],
+    "yapilis": "Tüm malzemeleri yoğurun, şekil verip tavada kızartın."
+  },
+  {
+    "yemekAdi": "Tavuklu Pilav",
+    "malzemeler": [
+      "2 adet tavuk göğsü",
+      "2 su bardağı pirinç",
+      "1 yemek kaşığı tereyağı",
+      "1 tatlı kaşığı tuz"
+    ],
+    "yapilis": "Tavukları haşlayın, pirinci tereyağında kavurun ve haşlanan tavukla karıştırarak pişirin."
+  },
+  {
+    "yemekAdi": "Fırında Karnabahar",
+    "malzemeler": [
+      "1 adet karnabahar",
+      "2 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 çay bardağı kaşar peyniri"
+    ],
+    "yapilis": "Karnabaharı haşlayıp fırın tepsisine yerleştirin, üzerine zeytinyağı ve peynir serpip fırında pişirin."
+  },
+  {
+    "yemekAdi": "Acılı Ezme",
+    "malzemeler": [
+      "4 adet domates",
+      "2 adet biber",
+      "1 tatlı kaşığı pul biber",
+      "1 tatlı kaşığı nar ekşisi"
+    ],
+    "yapilis": "Domates ve biberleri doğrayıp baharatlarla karıştırın."
+  },
+  {
+    "yemekAdi": "Taze Fasulye Yemeği",
+    "malzemeler": [
+      "500 gram taze fasulye",
+      "2 adet domates",
+      "1 adet soğan",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Fasulyeleri doğrayıp, soğanla kavurun, domates ve baharatlarla pişirin."
+  },
+  {
+    "yemekAdi": "Zeytinyağlı Barbunya",
+    "malzemeler": [
+      "500 gram barbunya",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı şeker"
+    ],
+    "yapilis": "Barbunyayı haşlayıp, soğanla zeytinyağında kavurun, şeker ve tuzla tatlandırın."
+  },
+  {
+    "yemekAdi": "Kimyonlu Kurabiye",
+    "malzemeler": [
+      "2 su bardağı un",
+      "1 çay bardağı sıvı yağ",
+      "1 çay kaşığı tuz",
+      "1 tatlı kaşığı kimyon",
+      "1 paket kabartma tozu"
+    ],
+    "yapilis": "Tüm malzemeleri karıştırıp yoğurun. Şekil verip 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Etli Taze Fasulye",
+    "malzemeler": [
+      "500 gram taze fasulye",
+      "250 gram kuşbaşı et",
+      "2 adet domates",
+      "1 yemek kaşığı salça",
+      "1 adet soğan",
+      "2 yemek kaşığı zeytinyağı",
+      "Tuz"
+    ],
+    "yapilis": "Eti zeytinyağında kavurun. Soğan ve salçayı ekleyip karıştırın. Fasulyeleri ve domatesleri ilave edip su ekleyin. Kısık ateşte pişirin."
+  },
+  {
+    "yemekAdi": "Ballı Muzlu Dondurma",
+    "malzemeler": [
+      "2 adet muz",
+      "3 yemek kaşığı bal",
+      "1 su bardağı süt",
+      "1 paket krem şanti"
+    ],
+    "yapilis": "Muzları ezip süt, bal ve krem şanti ile karıştırın. Karışımı dondurucuya koyup arada karıştırarak dondurun."
+  },
+  {
+    "yemekAdi": "Şakşuka",
+    "malzemeler": [
+      "2 adet patlıcan",
+      "2 adet domates",
+      "1 adet yeşil biber",
+      "1 tatlı kaşığı tuz"
+    ],
+    "yapilis": "Patlıcanları küp küp doğrayıp kızartın, domates ve biberi ekleyip pişirin."
+  },
+  {
+    "yemekAdi": "Fırın Tavuk Kanatları",
+    "malzemeler": [
+      "1 kg tavuk kanatları",
+      "1 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı kekik",
+      "1 tatlı kaşığı pul biber"
+    ],
+    "yapilis": "Tavuk kanatlarını baharatlar ve yağla karıştırıp fırına verin."
+  },
+  {
+    "yemekAdi": "Fırında Somon",
+    "malzemeler": [
+      "4 dilim somon balığı",
+      "1 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 limon"
+    ],
+    "yapilis": "Somonları zeytinyağı ve tuzla marine edip fırında pişirin, limon dilimleriyle servis yapın."
+  },
+  {
+    "yemekAdi": "Lazanya",
+    "malzemeler": [
+      "500 gram kıyma",
+      "2 adet domates",
+      "1 paket lazanya",
+      "1 su bardağı beşamel sos"
+    ],
+    "yapilis": "Kıymayı kavurun, domatesleri ekleyin, lazanya yaprakları ve sosla kat kat yerleştirip pişirin."
+  },
+  {
+    "yemekAdi": "Sebzeli Güveç",
+    "malzemeler": [
+      "2 adet patates",
+      "2 adet havuç",
+      "1 su bardağı bezelye",
+      "1 tatlı kaşığı tuz"
+    ],
+    "yapilis": "Sebzeleri doğrayıp güveçte pişirin, tuz ve baharatlarla tatlandırın."
+  },
+  {
+    "yemekAdi": "Köfte Şiş",
+    "malzemeler": [
+      "500 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı pul biber",
+      "1 çay bardağı ekmek kırıntısı"
+    ],
+    "yapilis": "Köfte harcını yoğurup şişlere takın, mangalda veya tavada pişirin."
+  },
+  {
+    "yemekAdi": "Bulgur Pilavı",
+    "malzemeler": [
+      "2 su bardağı bulgur",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz",
+      "1 yemek kaşığı tereyağı"
+    ],
+    "yapilis": "Bulguru soğanla kavurun, üzerine suyu ekleyip pişirin."
+  },
+  {
+    "yemekAdi": "Sebzeli Kısır",
+    "malzemeler": [
+      "2 su bardağı ince bulgur",
+      "2 adet salatalık",
+      "2 yemek kaşığı nar ekşisi",
+      "1 limon suyu"
+    ],
+    "yapilis": "Bulguru sıcak suyla ıslatın, sebzeleri doğrayıp karışıma ekleyin ve nar ekşisiyle tatlandırın."
+  },
+  {
+    "yemekAdi": "Çörek",
+    "malzemeler": [
+      "5 su bardağı un",
+      "1 paket kuru maya",
+      "1 tatlı kaşığı tuz",
+      "1 yemek kaşığı şeker"
+    ],
+    "yapilis": "Tüm malzemeleri karıştırıp yoğurun, hamuru dinlendirip şekil verin ve fırında pişirin."
+  },
+  {
+    "yemekAdi": "Pide",
+    "malzemeler": [
+      "500 gram un",
+      "200 gram kıyma",
+      "1 adet soğan",
+      "1 tatlı kaşığı tuz"
+    ],
+    "yapilis": "Hamuru yoğurup açın, üzerine kıyma ve baharatlar ekleyip fırında pişirin."
+  },
+  {
+    "yemekAdi": "Fırında Kabak",
+    "malzemeler": [
+      "4 adet kabak",
+      "1 su bardağı kaşar peyniri",
+      "1 tatlı kaşığı tuz",
+      "1 yemek kaşığı sıvı yağ"
+    ],
+    "yapilis": "Kabakları dilimleyip üzerine tuz ve peynir serpip fırında pişirin."
+  },
+  {
+    "yemekAdi": "Karides Güveç",
+    "malzemeler": [
+      "300 gram karides",
+      "2 yemek kaşığı tereyağı",
+      "1 tatlı kaşığı tuz",
+      "1 çay bardağı beyaz şarap"
+    ],
+    "yapilis": "Karidesleri tereyağında kavurun, beyaz şarap ekleyip güveçte pişirin."
+  },
+  {
+    "yemekAdi": "Sushi",
+    "malzemeler": [
+      "2 su bardağı sushi pirinci",
+      "1/2 su bardağı pirinç sirkesi",
+      "10 dilim somon",
+      "1 adet avokado"
+    ],
+    "yapilis": "Pirinci yıkayıp, sirkeli suda haşlayın, yosun yaprağına pirinç ve somon dilimlerini yerleştirip rulo yapın."
+  },
+  {
+    "yemekAdi": "Ramen",
+    "malzemeler": [
+      "1 paket ramen noodle",
+      "2 su bardağı tavuk suyu",
+      "1 adet haşlanmış yumurta",
+      "2 yemek kaşığı soya sosu"
+    ],
+    "yapilis": "Noodle'ı haşlayın, tavuk suyu ve soya sosunu ekleyip kaynatın, üzerine haşlanmış yumurta ve garnitürleri ekleyin."
+  },
+  {
+    "yemekAdi": "Fettuccine Alfredo",
+    "malzemeler": [
+      "300 gram fettuccine makarna",
+      "1 su bardağı krema",
+      "100 gram parmesan peyniri",
+      "2 yemek kaşığı tereyağı"
+    ],
+    "yapilis": "Makarnayı haşlayın, kremayı tereyağı ile kaynatıp peyniri ekleyin, makarnayı sosla karıştırın."
+  },
+  {
+    "yemekAdi": "Lasagna",
+    "malzemeler": [
+      "500 gram kıyma",
+      "2 adet domates",
+      "1 paket lazanya",
+      "1 su bardağı beşamel sos"
+    ],
+    "yapilis": "Kıymayı kavurun, domatesleri ekleyin, lazanya yaprakları ve sosla kat kat yerleştirip fırınlayın."
+  },
+  {
+    "yemekAdi": "Pizza Margherita",
+    "malzemeler": [
+      "1 adet pizza hamuru",
+      "200 gram mozzarella peyniri",
+      "2 adet domates",
+      "1 yemek kaşığı zeytinyağı"
+    ],
+    "yapilis": "Hamuru açın, üzerine domates dilimleri, mozzarella ve zeytinyağı ekleyin, fırında pişirin."
+  },
+  {
+    "yemekAdi": "Pad Thai",
+    "malzemeler": [
+      "200 gram pirinç noodle",
+      "100 gram karides",
+      "2 yemek kaşığı soya sosu",
+      "1 tatlı kaşığı esmer şeker"
+    ],
+    "yapilis": "Noodle'ı haşlayın, karidesleri tavada pişirip, soya sosu, şeker ve diğer malzemelerle karıştırın."
+  },
+  {
+    "yemekAdi": "Chicken Wings",
+    "malzemeler": [
+      "1 kg tavuk kanadı",
+      "1 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı baharat karışımı",
+      "1 yemek kaşığı bal"
+    ],
+    "yapilis": "Kanatları zeytinyağı, baharatlar ve bal ile marine edin, fırında pişirin."
+  },
+  {
+    "yemekAdi": "Burrito",
+    "malzemeler": [
+      "2 adet tortilla",
+      "200 gram tavuk göğsü",
+      "1 su bardağı pirinç",
+      "1 çay bardağı guacamole"
+    ],
+    "yapilis": "Tavuk göğsünü soteleyin, tortilla içine pirinç, tavuk ve guacamole ekleyip sarın."
+  },
+  {
+    "yemekAdi": "Hamburger",
+    "malzemeler": [
+      "2 adet hamburger ekmeği",
+      "200 gram kıyma",
+      "1 dilim cheddar peyniri",
+      "1 adet marul"
+    ],
+    "yapilis": "Kıymayı şekil verip ızgarada pişirin, ekmek arasına peynir ve marul ekleyip servis yapın."
+  },
+  {
+    "yemekAdi": "Tacos",
+    "malzemeler": [
+      "4 adet taco kabuğu",
+      "200 gram kıyma",
+      "1/2 su bardağı mısır",
+      "1/4 su bardağı ekşi krema"
+    ],
+    "yapilis": "Kıymayı kavurup taco kabuklarına yerleştirin, üzerine mısır ve ekşi krema ekleyin."
+  },
+  {
+    "yemekAdi": "Pasta Carbonara",
+    "malzemeler": [
+      "200 gram spagetti",
+      "2 adet yumurta",
+      "100 gram pancetta",
+      "1/2 su bardağı parmesan peyniri"
+    ],
+    "yapilis": "Makarnayı haşlayın, pancettayı kavurun, yumurta ve peyniri karıştırıp makarnaya ekleyin."
+  },
+  {
+    "yemekAdi": "Spring Rolls",
+    "malzemeler": [
+      "Rice paper",
+      "100 gram karides",
+      "1/2 su bardağı pirinç eriştesi",
+      "1/2 adet marul"
+    ],
+    "yapilis": "Rice paper'ı ıslatın, üzerine karides, erişte ve marul ekleyin, rulo yapın."
+  },
+  {
+    "yemekAdi": "Tom Yum Çorbası",
+    "malzemeler": [
+      "200 gram karides",
+      "1 çay kaşığı limon otu",
+      "1 yemek kaşığı balık sosu",
+      "1 adet lime"
+    ],
+    "yapilis": "Tüm malzemeleri suda kaynatın, limonla servis yapın."
+  },
+  {
+    "yemekAdi": "Beef Wellington",
+    "malzemeler": [
+      "500 gram dana biftek",
+      "1 paket yufka",
+      "200 gram mantar",
+      "1 yemek kaşığı tereyağı"
+    ],
+    "yapilis": "Dana bifteği mantar karışımı ile sarıp yufkaya sararak fırında pişirin."
+  },
+  {
+    "yemekAdi": "Caesar Salad",
+    "malzemeler": [
+      "1 adet marul",
+      "100 gram tavuk göğsü",
+      "50 gram parmesan peyniri",
+      "1 çay bardağı kruton"
+    ],
+    "yapilis": "Tavuğu soteleyin, marul ve krutonla karıştırıp parmesan serpin."
+  },
+  {
+    "yemekAdi": "Quiche Lorraine",
+    "malzemeler": [
+      "1 paket milföy hamuru",
+      "200 gram pastırma",
+      "4 adet yumurta",
+      "1 su bardağı krema"
+    ],
+    "yapilis": "Milföy hamurunu tart kalıbına yerleştirip, pastırma ve yumurtayı ekleyip fırında pişirin."
+  },
+  {
+    "yemekAdi": "Maki Sushi",
+    "malzemeler": [
+      "2 su bardağı sushi pirinci",
+      "1 paket nori",
+      "200 gram somon",
+      "1 adet salatalık"
+    ],
+    "yapilis": "Pirinci haşlayıp yosun yaprağının üzerine yayın, üzerine somon ve salatalık ekleyip sarın."
+  },
+  {
+    "yemekAdi": "Pho",
+    "malzemeler": [
+      "200 gram sığır eti",
+      "1 adet soğan",
+      "1/2 su bardağı nane",
+      "1 yemek kaşığı soya sosu"
+    ],
+    "yapilis": "Eti haşlayıp, soğan ve baharatlarla kaynatın, nane ve soya sosu ile servis yapın."
+  },
+  {
+    "yemekAdi": "Fish and Chips",
+    "malzemeler": [
+      "500 gram balık filetosu",
+      "2 adet patates",
+      "1 su bardağı un",
+      "1 çay bardağı sıvı yağ"
+    ],
+    "yapilis": "Balıkları una bulayıp kızartın, patatesleri dilimleyip fırında pişirin."
+  },
+  {
+    "yemekAdi": "Fried Chicken",
+    "malzemeler": [
+      "1 kg tavuk but",
+      "1 su bardağı un",
+      "1 çay kaşığı paprika",
+      "1 tatlı kaşığı tuz"
+    ],
+    "yapilis": "Tavukları baharatlarla karıştırıp una bulayın, yağda kızartın."
+  },
+  {
+    "yemekAdi": "Pulled Pork Sandwich",
+    "malzemeler": [
+      "500 gram domuz eti",
+      "1 su bardağı barbekü sosu",
+      "2 adet hamburger ekmeği",
+      "1/2 su bardağı lahana salatası"
+    ],
+    "yapilis": "Domuz etini fırında pişirip, şreddedip barbekü sosuyla karıştırın, ekmek arasına koyun."
+  },
+  {
+    "yemekAdi": "Falafel",
+    "malzemeler": [
+      "1 su bardağı nohut",
+      "1/2 su bardağı baharat karışımı",
+      "1 tatlı kaşığı kimyon",
+      "1/2 su bardağı maydanoz"
+    ],
+    "yapilis": "Nohutları haşlayıp baharatlarla karıştırın, köfte şeklinde yuvarlayıp kızartın."
+  },
+  {
+    "yemekAdi": "Goulash",
+    "malzemeler": [
+      "500 gram dana eti",
+      "1 adet soğan",
+      "2 adet domates",
+      "1 tatlı kaşığı paprika"
+    ],
+    "yapilis": "Etleri kavurun, domates ve baharatlarla pişirin."
+  },
+  {
+    "yemekAdi": "Çikolatalı Mousse",
+    "malzemeler": [
+      "200 gram bitter çikolata",
+      "2 su bardağı krema",
+      "1 yemek kaşığı şeker",
+      "1 paket vanilin"
+    ],
+    "yapilis": "Çikolatayı benmari usulü eritin. Kremayı çırpıp şeker ve vanilin ekleyin. Eriyen çikolatayı karışıma ekleyip karıştırın. Buzdolabında en az 2 saat soğutun ve soğuk servis yapın."
+  },
+  {
+    "yemekAdi": "Portakallı Tart",
+    "malzemeler": [
+      "2 su bardağı un",
+      "100 gram tereyağı",
+      "1/2 su bardağı toz şeker",
+      "1 adet portakal",
+      "1 yumurta",
+      "1 paket vanilin"
+    ],
+    "yapilis": "Un, tereyağı ve şekeri karıştırıp hamur yapın. Tart kalıbına yerleştirin. Üzerine portakal suyu ve vanilini karıştırarak dökün ve fırında 180°C'de pişirin."
+  },
+  {
+    "yemekAdi": "Kakaolu Muhallebi",
+    "malzemeler": [
+      "1 litre süt",
+      "1/2 su bardağı kakao",
+      "1 su bardağı şeker",
+      "3 yemek kaşığı un",
+      "1 paket vanilin"
+    ],
+    "yapilis": "Süt, şeker, un ve kakaoyu karıştırıp kaynatın. Karışım koyulaşınca vanilini ekleyin. Kâselere dökün ve soğuduktan sonra servis yapın."
+  },
+  {
+    "yemekAdi": "Fındıklı Kek",
+    "malzemeler": [
+      "3 adet yumurta",
+      "1 su bardağı şeker",
+      "1/2 su bardağı süt",
+      "1 su bardağı sıvı yağ",
+      "1 su bardağı dövülmüş fındık",
+      "2 su bardağı un",
+      "1 paket kabartma tozu"
+    ],
+    "yapilis": "Yumurta ve şekeri çırpın. Süt, sıvı yağ, fındık, un ve kabartma tozunu ekleyip karıştırın. 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Kinoa ve Avokado Salatası",
+    "malzemeler": [
+      "1 su bardağı kinoa",
+      "1 adet avokado",
+      "1 adet kırmızı biber",
+      "1 çay bardağı zeytinyağı",
+      "Tuz",
+      "Limon suyu"
+    ],
+    "yapilis": "Kinoyu haşlayıp soğutun. Avokadoyu ve biberi doğrayın. Limon suyu ve zeytinyağını ekleyip karıştırın."
+  },
+  {
+    "yemekAdi": "Fesleğenli Domates Salatası",
+    "malzemeler": [
+      "3 adet domates",
+      "1/2 su bardağı fesleğen",
+      "1 yemek kaşığı zeytinyağı",
+      "Tuz",
+      "Balsamik sirke"
+    ],
+    "yapilis": "Domatesleri doğrayıp fesleğenle karıştırın. Üzerine zeytinyağı ve balsamik sirke gezdirerek servis yapın."
+  },
+  {
+    "yemekAdi": "Şehriyeli Salata",
+    "malzemeler": [
+      "1 su bardağı şehriye",
+      "1 adet domates",
+      "1 adet salatalık",
+      "1/2 çay bardağı zeytinyağı",
+      "Tuz",
+      "Limon suyu"
+    ],
+    "yapilis": "Şehriyeyi haşlayıp soğutun. Domates, salatalık ve zeytinyağını ekleyip karıştırın. Limon suyu ve tuz ekleyin."
+  },
+  {
+    "yemekAdi": "Fırın Patates Salatası",
+    "malzemeler": [
+      "4 adet patates",
+      "1/2 çay bardağı zeytinyağı",
+      "1 tatlı kaşığı kekik",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Patatesleri doğrayıp zeytinyağı, kekik, tuz ve karabiberle karıştırıp fırında pişirin."
+  },
+  {
+    "yemekAdi": "Kabak Salatası",
+    "malzemeler": [
+      "2 adet kabak",
+      "1 adet limon",
+      "1/4 çay bardağı zeytinyağı",
+      "Tuz",
+      "Nane"
+    ],
+    "yapilis": "Kabakları rendelenip limon suyu, zeytinyağı ve tuz ile karıştırın. Üzerine nane serpip servis yapın."
+  },
+  {
+    "yemekAdi": "Zeytinli Ekmek",
+    "malzemeler": [
+      "3 su bardağı un",
+      "1/2 su bardağı zeytin",
+      "1 su bardağı su",
+      "1 paket maya",
+      "1 tatlı kaşığı tuz"
+    ],
+    "yapilis": "Un, maya, tuz ve suyu karıştırarak yoğurun. Zeytinleri ekleyip mayalandırın. Hamuru şekillendirip fırında pişirin."
+  },
+  {
+    "yemekAdi": "Sıcak Sandviç",
+    "malzemeler": [
+      "4 dilim ekmek",
+      "200 gram tavuk göğsü",
+      "1 dilim kaşar peyniri",
+      "Zeytinyağı",
+      "Tuz"
+    ],
+    "yapilis": "Tavuğu pişirip ekmek dilimlerinin arasına koyun. Kaşar peyniri ekleyip sandviçinizi zeytinyağında kızartın."
+  },
+  {
+    "yemekAdi": "Soslu Börek",
+    "malzemeler": [
+      "3 yufka",
+      "200 gram kıyma",
+      "1 adet soğan",
+      "1 çay bardağı yoğurt",
+      "1 çay bardağı sıvı yağ",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Kıymayı soğanla kavurun. Yufkaları yoğurt ve sıvı yağ karışımında ıslatıp kıymalı harcı ekleyin. Üzerine yoğurtlu sosu dökün ve pişirin."
+  },
+  {
+    "yemekAdi": "Poğaça",
+    "malzemeler": [
+      "3 su bardağı un",
+      "1 paket maya",
+      "1/2 su bardağı yoğurt",
+      "1 su bardağı sıvı yağ",
+      "Tuz",
+      "1 adet yumurta"
+    ],
+    "yapilis": "Tüm malzemeleri karıştırıp yoğurun. Hamurdan küçük parçalar koparıp şekil verin. Üzerine yumurta sarısı sürüp pişirin."
+  },
+  {
+    "yemekAdi": "Çörek Otlu Poğaça",
+    "malzemeler": [
+      "4 su bardağı un",
+      "1 paket maya",
+      "1 çay bardağı yoğurt",
+      "1/2 çay bardağı sıvı yağ",
+      "Çörek otu",
+      "Tuz"
+    ],
+    "yapilis": "Hamuru yoğurup mayalandırın. Şekil verip çörek otunu serpin ve pişirin."
+  },
+  {
+    "yemekAdi": "Zeytinli Kurabiye",
+    "malzemeler": [
+      "2 su bardağı un",
+      "1/2 çay bardağı sıvı yağ",
+      "1 su bardağı beyaz peynir",
+      "1/2 su bardağı zeytin",
+      "Tuz"
+    ],
+    "yapilis": "Tüm malzemeleri karıştırıp hamur yapın. Şekil verip 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Tuzlu Çörek",
+    "malzemeler": [
+      "3 su bardağı un",
+      "1 çay bardağı yoğurt",
+      "1/2 çay bardağı sıvı yağ",
+      "1 paket kabartma tozu",
+      "Tuz"
+    ],
+    "yapilis": "Hamuru yoğurup şekil verin. Üzerine yumurta sarısı sürüp pişirin."
+  },
+  {
+    "yemekAdi": "Kaşar Peynirli Kurabiye",
+    "malzemeler": [
+      "1 su bardağı un",
+      "1/2 su bardağı kaşar peyniri",
+      "1 çay bardağı sıvı yağ",
+      "1 paket kabartma tozu",
+      "Tuz"
+    ],
+    "yapilis": "Hamuru yoğurup şekil verin. 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Fırın Elma Tatlısı",
+    "malzemeler": [
+      "4 adet elma",
+      "1/4 su bardağı toz şeker",
+      "1 tatlı kaşığı tarçın",
+      "1/2 su bardağı dövülmüş ceviz",
+      "Yarım limon suyu"
+    ],
+    "yapilis": "Elmaları ortadan ikiye kesip çekirdeklerini çıkarın. Şeker, tarçın, ceviz ve limon suyunu karıştırıp elmaların içine doldurun. Fırın tepsisine yerleştirip 180°C'de pişirin."
+  },
+  {
+    "yemekAdi": "Çikolatalı Muzlu Tart",
+    "malzemeler": [
+      "1 paket hazır tart hamuru",
+      "2 adet muz",
+      "200 gram bitter çikolata",
+      "1/2 su bardağı süt",
+      "1 tatlı kaşığı vanilin"
+    ],
+    "yapilis": "Tart hamurunu tepsiye yerleştirip fırında pişirin. Çikolatayı sütle eritin, vanilin ekleyin. Tartın üzerine muz dilimlerini yerleştirip çikolata sosunu dökün."
+  },
+  {
+    "yemekAdi": "Kremalı Çilek Tatlısı",
+    "malzemeler": [
+      "2 su bardağı krema",
+      "1 su bardağı çilek",
+      "1 yemek kaşığı pudra şekeri",
+      "1 paket vanilin"
+    ],
+    "yapilis": "Kremayı çırpın, pudra şekeri ve vanilini ekleyin. Çilekleri doğrayıp kremayla karıştırın ve buzdolabında soğutun."
+  },
+  {
+    "yemekAdi": "Kadayıflı Muhallebi",
+    "malzemeler": [
+      "200 gram tel kadayıf",
+      "500 gram süt",
+      "1/2 su bardağı toz şeker",
+      "1 yemek kaşığı nişasta",
+      "1 paket vanilin"
+    ],
+    "yapilis": "Kadayıfı tereyağında kavurun. Süt, şeker, nişasta ve vanilini karıştırarak pişirin. Kadayıfı bir kaba dökün, üzerine muhallebiyi ekleyin ve buzdolabında soğutun."
+  },
+  {
+    "yemekAdi": "Kremalı Börek",
+    "malzemeler": [
+      "2 adet yufka",
+      "1 su bardağı yoğurt",
+      "1/2 su bardağı süt",
+      "1 paket kabartma tozu",
+      "Tuz",
+      "Zeytinyağı",
+      "Beyaz peynir"
+    ],
+    "yapilis": "Yufkaları açıp yoğurt, süt ve kabartma tozu karışımına batırın. Peynirle doldurup sarın ve fırında pişirin."
+  },
+  {
+    "yemekAdi": "Ton Balıklı Salata",
+    "malzemeler": [
+      "1 kutu ton balığı",
+      "1/2 su bardağı mısır",
+      "1/2 su bardağı haşlanmış nohut",
+      "1 adet salatalık",
+      "1 adet domates",
+      "Zeytinyağı",
+      "Tuz"
+    ],
+    "yapilis": "Ton balığını, mısır, nohut, doğranmış salatalık ve domatesle karıştırın. Üzerine zeytinyağı ve tuz ekleyip karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Fesleğenli Yoğurtlu Salata",
+    "malzemeler": [
+      "1/2 su bardağı yoğurt",
+      "1 çay bardağı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1/2 demet fesleğen",
+      "1 tatlı kaşığı limon suyu"
+    ],
+    "yapilis": "Yoğurdu, zeytinyağını, tuzu ve limon suyunu karıştırın. Üzerine doğranmış fesleğenleri ekleyip karıştırın ve servis yapın."
+  },
+  {
+    "yemekAdi": "Kabaklı Çörek",
+    "malzemeler": [
+      "2 adet kabak",
+      "2 su bardağı un",
+      "1 tatlı kaşığı tuz",
+      "1 paket kabartma tozu",
+      "1/2 su bardağı sıvı yağ",
+      "1 adet yumurta",
+      "1/2 su bardağı süt"
+    ],
+    "yapilis": "Kabakları rendeleyin ve sıkın. Diğer malzemelerle karıştırıp hamur yapın. Hamurdan küçük parçalar alıp fırında pişirin."
+  },
+  {
+    "yemekAdi": "Semizotu Salatası",
+    "malzemeler": [
+      "1 demet semizotu",
+      "1/2 su bardağı yoğurt",
+      "1 diş sarımsak",
+      "1 yemek kaşığı zeytinyağı",
+      "Tuz"
+    ],
+    "yapilis": "Semizotlarını doğrayıp yoğurt, sarımsak ve zeytinyağı ile karıştırın. Tuz ekleyip karıştırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Sodalı Poğaça",
+    "malzemeler": [
+      "3 su bardağı un",
+      "1 su bardağı soda",
+      "1/2 su bardağı sıvı yağ",
+      "1 paket kabartma tozu",
+      "Tuz"
+    ],
+    "yapilis": "Hamuru yoğurup şekil verin. Üzerine yumurta sarısı sürüp fırında pişirin."
+  },
+  {
+    "yemekAdi": "Kıymalı Karnıbahar",
+    "malzemeler": [
+      "1 baş karnıbahar",
+      "250 gram kıyma",
+      "1 adet soğan",
+      "2 yemek kaşığı zeytinyağı",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Karnıbaharı haşlayıp kıymayı soğanla kavurun. Karnıbaharı ekleyip karıştırın. Baharatlarla tatlandırıp pişirin."
+  },
+  {
+    "yemekAdi": "Ispanaklı Çörek",
+    "malzemeler": [
+      "3 su bardağı un",
+      "1/2 su bardağı süt",
+      "1/4 su bardağı sıvı yağ",
+      "1 tatlı kaşığı tuz",
+      "1 paket maya",
+      "200 gram ıspanak"
+    ],
+    "yapilis": "Hamuru yoğurup mayalandırın. Ispanakları doğrayıp hamura ekleyin ve şekil verip pişirin."
+  },
+  {
+    "yemekAdi": "Fırın Poğaça",
+    "malzemeler": [
+      "2 su bardağı un",
+      "1 su bardağı yoğurt",
+      "1/2 su bardağı sıvı yağ",
+      "1 yumurta",
+      "1 tatlı kaşığı tuz",
+      "1 paket kabartma tozu"
+    ],
+    "yapilis": "Tüm malzemeleri karıştırıp hamur yapın. Hamurdan küçük parçalar koparıp şekil verin. Fırında pişirin."
+  },
+  {
+    "yemekAdi": "Zeytinyağlı Yufka Böreği",
+    "malzemeler": [
+      "3 yufka",
+      "1/2 su bardağı sıvı yağ",
+      "1 su bardağı beyaz peynir",
+      "1/2 su bardağı zeytinyağı",
+      "1 yumurta"
+    ],
+    "yapilis": "Yufkaları sıvı yağda ıslatıp, üzerine beyaz peynir serpip rulo yapın. Üzerine yumurta sarısı sürüp fırında pişirin."
+  },
+  {
+    "yemekAdi": "Avokadolu Ekmek Dilimleri",
+    "malzemeler": [
+      "1 adet olgun avokado",
+      "4 dilim tam buğday ekmeği",
+      "1 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 tatlı kaşığı limon suyu",
+      "Tuz"
+    ],
+    "yapilis": "Avokadoyu ezip limon suyu, tuz ve zeytinyağı ekleyin. Ekmek dilimlerini kızartıp üzerine avokado karışımını sürün. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Zeytin ve Feta Peyniri Şişleri",
+    "malzemeler": [
+      "100 gram beyaz peynir",
+      "1/2 su bardağı yeşil zeytin",
+      "1/2 su bardağı siyah zeytin",
+      "2 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı kekik",
+      "1 tatlı kaşığı limon suyu"
+    ],
+    "yapilis": "Zeytinleri ve peyniri şişlere dizin. Zeytinyağı, kekik ve limon suyunu karıştırarak üzerine gezdirin. Soğuk servis yapın."
+  },
+  {
+    "yemekAdi": "Patates Cipsi",
+    "malzemeler": [
+      "4 adet büyük boy patates",
+      "Yarım çay bardağı zeytinyağı",
+      "Tuz",
+      "Pul biber"
+    ],
+    "yapilis": "Patatesleri ince dilimler halinde kesin. Zeytinyağı ve baharatlarla karıştırıp fırınlayın. Fırında çıtır çıtır pişirin."
+  },
+  {
+    "yemekAdi": "Peynirli Krep",
+    "malzemeler": [
+      "2 adet yumurta",
+      "1 su bardağı süt",
+      "1 su bardağı un",
+      "200 gram beyaz peynir",
+      "Tuz",
+      "Sıvı yağ"
+    ],
+    "yapilis": "Yumurtaları çırpıp süt ve un ekleyin. Karışımdan ince krepler yapın. İçine beyaz peynir koyarak sarın. Sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Mini Pizza",
+    "malzemeler": [
+      "4 dilim ekmek",
+      "100 gram rendelenmiş kaşar peyniri",
+      "2 yemek kaşığı domates salçası",
+      "1 adet yeşil biber",
+      "1 adet domates",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Ekmek dilimlerine domates salçası sürün. Üzerine dilimlenmiş biber ve domates koyun. Kaşar peyniri serpip 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Fırında Parmesanlı Mantar",
+    "malzemeler": [
+      "6 adet büyük boy mantar",
+      "2 yemek kaşığı zeytinyağı",
+      "1/4 su bardağı rendelenmiş parmesan peyniri",
+      "Tuz",
+      "Karabiber",
+      "1 tatlı kaşığı kekik"
+    ],
+    "yapilis": "Mantarları temizleyip şapkasını çıkarın. Zeytinyağı, parmesan, kekik ve baharatlarla karıştırın. Mantarları karışıma batırıp 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Peynirli Börek Rulosu",
+    "malzemeler": [
+      "3 adet yufka",
+      "200 gram beyaz peynir",
+      "1 adet yumurta",
+      "1 çay bardağı sıvı yağ",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Yufkayı serip sıvı yağla yağlayın. Üzerine peynir, tuz ve karabiber karışımını koyup rulo şeklinde sarın. Üzerine yumurta sarısı sürüp 180°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Çıtır Tavuk Kanatları",
+    "malzemeler": [
+      "8 adet tavuk kanadı",
+      "1 su bardağı un",
+      "1 tatlı kaşığı pul biber",
+      "1 çay kaşığı tuz",
+      "Yarım çay bardağı sıvı yağ",
+      "1 çay bardağı su"
+    ],
+    "yapilis": "Un, tuz ve baharatları karıştırıp tavuk kanatlarını bulayın. Sıvı yağ ve su ile karıştırıp kanatları fırın tepsisine dizin. 200°C fırında pişirin."
+  },
+  {
+    "yemekAdi": "Sebzeli Mini Quiche",
+    "malzemeler": [
+      "2 adet yumurta",
+      "1 su bardağı süt",
+      "1/2 su bardağı rendelenmiş kaşar peyniri",
+      "1/2 su bardağı doğranmış brokoli",
+      "1/4 su bardağı doğranmış havuç",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Tüm malzemeyi karıştırıp mini kek kalıplarına dökün. 180°C fırında 20 dakika pişirin."
+  },
+  {
+    "yemekAdi": "Közlenmiş Patlıcanlı Meze",
+    "malzemeler": [
+      "2 adet patlıcan",
+      "1/4 su bardağı zeytinyağı",
+      "1 diş sarımsak",
+      "1/2 su bardağı yoğurt",
+      "Tuz",
+      "Zeytinyağı"
+    ],
+    "yapilis": "Patlıcanları közleyip kabuklarını soyun. Sarımsak ve yoğurdu karıştırıp patlıcanlarla karıştırın. Zeytinyağında gezdirerek servis yapın."
+  },
+  {
+    "yemekAdi": "Kabak Çubukları",
+    "malzemeler": [
+      "2 adet kabak",
+      "1/2 su bardağı un",
+      "1/2 su bardağı galeta unu",
+      "1 yumurta",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Kabaka çubuk şeklinde doğrayıp un ve galeta ununa batırın. Yumurtayı çırpıp kaba batırın ve kızgın yağda kızartın."
+  },
+  {
+    "yemekAdi": "Sıcak Avokado Tostu",
+    "malzemeler": [
+      "2 dilim ekmek",
+      "1 adet avokado",
+      "1 tatlı kaşığı limon suyu",
+      "Tuz",
+      "Pul biber"
+    ],
+    "yapilis": "Ekmek dilimlerini kızartın. Avokadoyu ezip üzerine limon suyu, tuz ve pul biber ekleyin. Kızarmış ekmeğin üzerine sürüp sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Hummus",
+    "malzemeler": [
+      "2 su bardağı haşlanmış nohut",
+      "2 yemek kaşığı tahin",
+      "1 diş sarımsak",
+      "1 tatlı kaşığı tuz",
+      "1 yemek kaşığı zeytinyağı",
+      "1 tatlı kaşığı limon suyu"
+    ],
+    "yapilis": "Tüm malzemeleri bir mutfak robotunda karıştırıp pürüzsüz bir kıvam alana kadar çekin. Zeytinyağı gezdirerek servis yapın."
+  },
+  {
+    "yemekAdi": "Mini Sebze Börekleri",
+    "malzemeler": [
+      "2 yufka",
+      "1/2 su bardağı zeytinyağı",
+      "1 su bardağı haşlanmış patates",
+      "1/2 su bardağı doğranmış kabak",
+      "1/4 su bardağı beyaz peynir",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Yufkaları yağlayıp haşlanmış patates, kabak, beyaz peynir ve baharatlarla karıştırıp yufkalara doldurun. Rulo yapıp fırında pişirin."
+  },
+  {
+    "yemekAdi": "Fırınlandığı Zeytinli Ekmek",
+    "malzemeler": [
+      "4 dilim ekmek",
+      "1/2 su bardağı zeytin",
+      "1/4 su bardağı zeytinyağı",
+      "1 tatlı kaşığı kekik",
+      "1 diş sarımsak",
+      "Tuz"
+    ],
+    "yapilis": "Ekmeği fırın tepsisine dizin. Zeytin, zeytinyağı, kekik ve tuzu karıştırıp ekmeğin üzerine sürün. Fırında 180°C'de pişirin."
+  },
+  {
+    "yemekAdi": "Süzme Yoğurtlu Yumurta",
+    "malzemeler": [
+      "2 adet yumurta",
+      "2 yemek kaşığı süzme yoğurt",
+      "1 tatlı kaşığı zeytinyağı",
+      "Tuz",
+      "Karabiber",
+      "Pul biber"
+    ],
+    "yapilis": "Yumurtaları kaynar suda haşlayın. Süzme yoğurdu bir kaseye alıp üzerine haşlanmış yumurtayı koyun. Zeytinyağı ve baharatlarla tatlandırın."
+  },
+  {
+    "yemekAdi": "Kavurmalı Simit",
+    "malzemeler": [
+      "4 adet simit",
+      "100 gram kavurma",
+      "1 tatlı kaşığı tereyağı",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Kavurayı tereyağında kavurun. Simitlerin arasına kavurmayı koyup tuz ve karabiberle tatlandırarak servis yapın."
+  },
+  {
+    "yemekAdi": "Çikolatalı Krep",
+    "malzemeler": [
+      "2 adet yumurta",
+      "1 su bardağı süt",
+      "1/2 su bardağı un",
+      "1 tatlı kaşığı kakao",
+      "1 yemek kaşığı şeker",
+      "100 gram çikolata"
+    ],
+    "yapilis": "Tüm malzemeleri karıştırıp krep hamuru hazırlayın. Krepleri pişirip üzerine eritilmiş çikolata sürerek servis yapın."
+  },
+  {
+    "yemekAdi": "Zeytinli Menemen",
+    "malzemeler": [
+      "2 adet yumurta",
+      "1/2 su bardağı zeytin",
+      "1 adet domates",
+      "1 tatlı kaşığı pul biber",
+      "Tuz",
+      "Zeytinyağı"
+    ],
+    "yapilis": "Zeytinyağında domatesleri soteleyin. Zeytinleri doğrayıp ekleyin. Yumurtaları kırıp karıştırarak pişirin."
+  },
+  {
+    "yemekAdi": "Kabaklı Mantar Çorbası",
+    "malzemeler": [
+      "1 adet kabak",
+      "200 gram mantar",
+      "1 adet soğan",
+      "1 yemek kaşığı sıvı yağ",
+      "1 su bardağı süt",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Soğanı soteleyin, doğranmış kabak ve mantarları ekleyin. Üzerine süt ve baharatları ekleyip pişirin. Çorba kıvamını alana kadar karıştırarak pişirin."
+  },
+  {
+    "yemekAdi": "Beyaz Peynirli Patates Kızartması",
+    "malzemeler": [
+      "4 adet patates",
+      "100 gram beyaz peynir",
+      "Zeytinyağı",
+      "Tuz",
+      "Karabiber"
+    ],
+    "yapilis": "Patatesleri doğrayıp kızartın. Üzerine beyaz peynir, tuz ve karabiber ekleyin ve sıcak servis yapın."
+  },
+  {
+    "yemekAdi": "Meyveli Yoğurtlu Kahvaltı",
+    "malzemeler": [
+      "1 su bardağı yoğurt",
+      "1/2 su bardağı yaban mersini",
+      "1 adet muz",
+      "1 yemek kaşığı bal",
+      "Yarım çay bardağı granola"
+    ],
+    "yapilis": "Yoğurdu bir kaseye alıp üzerine doğranmış muz ve yaban mersini ekleyin. Granola ve bal ile tatlandırarak kahvaltı olarak servis yapın."
+  },
+  {
+    "yemekAdi": "Avokadolu Kahvaltı Tostu",
+    "malzemeler": [
+      "2 dilim ekmek",
+      "1 adet avokado",
+      "1 dilim peynir",
+      "Tuz",
+      "Karabiber",
+      "Zeytinyağı"
+    ],
+    "yapilis": "Ekmek dilimlerini kızartın. Avokadoyu ezip üzerine tuz, karabiber ve zeytinyağı ekleyin. Kızarmış ekmeğin üzerine sürüp peynir dilimini ekleyin."
+  },
+  {
+    "yemekAdi": "Kremalı Peynirli Çörek",
+    "malzemeler": [
+      "2 su bardağı un",
+      "1/2 su bardağı yoğurt",
+      "1 çay bardağı sıvı yağ",
+      "100 gram krem peynir",
+      "1 tatlı kaşığı tuz",
+      "1 paket kabartma tozu"
+    ],
+    "yapilis": "Hamuru yoğurup şekil verin ve içine krem peynir koyun. Fırında pişirin."
+  }
+]

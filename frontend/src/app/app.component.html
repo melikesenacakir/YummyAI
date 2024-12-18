@@ -1,9 +1,27 @@
-<div style="text-align: center;">
-  <div class="container">
-    <img src="assets/yummyai.jpg" alt="YummyAI Logo">
-    <h1>Welcome to YummyAI</h1>
-    <p>Your personal recipe assistant!</p>
-  </div>
+<div [class.has-results]="hasResults" class="main-container">
+  @if(!hasResults){
+    <div class="container logo">
+      <img src="assets/yummyai.jpg" alt="YummyAI Logo" style="width: 180px;">
+      <h1 *ngIf="!hasResults">Welcome to YummyAI</h1>
+      <p *ngIf="!hasResults">Your personal recipe assistant!</p>
+    </div>
+  
+    <app-searchbar (dataEmitter)="onSearchResults($event)"></app-searchbar>
+  }
+  @else {
+    <div *ngIf="hasResults" class="horizontal-container">
+      <div class="image-container">
+        <img src="assets/yummyai.jpg" alt="YummyAI Logo" style="width: 60px;">
+      </div>
+    
+      <div class="text-container">
+        <p style="font-weight: bold; font-size: 1.3rem;">YummyAI:</p>
+       <p class="typing-effect">{{ displayedText }}</p>
+      </div>
+    </div>
+    <app-searchbar (dataEmitter)="onSearchResults($event)"  class="fixed-searchbar" ></app-searchbar>
+  }
 </div>
-<app-searchbar></app-searchbar>
+  
+
 <router-outlet></router-outlet>

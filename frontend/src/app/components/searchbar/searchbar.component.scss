@@ -1,73 +1,39 @@
-.container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-}
-.button-container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 5px;
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 
-.searchbar{
+.searchbar {
   width: 70%;
-  height: 80px;
+  height: 50px; 
   position: relative;
   display: flex;
-  left: 10px;
-  margin-top: 7px;
   justify-content: space-between;
   align-items: center;
-  .search{
-    position: absolute;
-    cursor: pointer;
-    right: 0;
-    margin-right: 10px;
-    z-index: 2;
-    background-color: transparent;
-  }
-  .add{
-    position: absolute;
-    cursor: pointer;
-    left: 0;
-    margin-left: 10px;
-    z-index: 2;
-    background-color: transparent;
-  }
-}
-mat-paginator{
-  position: fixed;
-  bottom: 0;
-  align-items: center;
-  justify-content: center;
+  margin-top: 20px;
 }
 
-.btn{
-    border-radius: 30px;
-    background-color: #ECE6F0;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, revert-layer;
-    font-weight: bold;
-    border-style: none;
-    .new{
-      text-align: center;
-    }
-    .inp{
-      text-align: left;
-    }
-    
-    box-shadow: 0 3px #666;
-    height: 65%;
-    width: 100%;
+.searchbar .search-input {
+  flex: 1; 
+  height: 100%; 
+  border-radius: 25px;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  font-size: 16px;
 }
 
-.icons{
+.searchbar .icons {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
   display: flex;
-  justify-content: center;
   align-items: center;
-  &:hover{
-    transform: scale(1.3);
-  }
+  justify-content: center;
+}
+
+.searchbar .icons:hover {
+  transform: scale(1.1);
 }

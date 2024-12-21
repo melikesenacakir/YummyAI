@@ -5,3 +5,19 @@
 - Frontend - Angular v18
 - Backend - Flask
 - AI Algorithm - KNN
+
+* ### Installation & Deployment
+
+    1. Clone the repo
+       
+            git clone https://github.com/melikesenacakir/YummyAI.git
+    2. Go to this file
+       
+            cd YummyAI
+    3. Run the system in your terminal
+       
+           docker compose up
+    4. Enter **http://localhost:4200** and start using it 🚀
+       
+
+* If there are any problems in the project let me know! 🌟

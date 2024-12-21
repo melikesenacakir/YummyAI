@@ -10,7 +10,7 @@ services:
       - YummyAI
    
   frontend:
-    container_name: fronted-service
+    container_name: frontend-service
     build:
        context: ./frontend/
        dockerfile: ../docker/front.dockerfile

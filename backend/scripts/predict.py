@@ -45,7 +45,6 @@ def predict(ingredients):
 
     knn = load_model()
 
-   # kullanici_girisi = input("Kullandığınız malzemeleri virgülle ayırarak girin (örnek: muz,patlıcan): ")
     kullanici_malzemeleri = [malzeme.strip() for malzeme in ingredients.split(',')]
 
     kullanici_vektoru = create_user_vector(X, kullanici_malzemeleri)

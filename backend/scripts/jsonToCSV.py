@@ -4,10 +4,8 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk import pos_tag
 
-# NLTK için gerekli olan dil kaynağını indiriyoruz. Kelimeleri ayırmak için kullanılıyor
 # nltk.download('punkt')
 
-# Normalizasyon işlemi
 def normalize_ingredient(malzemeler):
     normalized_units = {
         'yarım': '',    

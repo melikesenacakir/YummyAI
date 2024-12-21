@@ -4,7 +4,7 @@ from sklearn.neighbors import NearestNeighbors
 from sklearn.model_selection import KFold
 
 
-def cross_validate_model(X, k=3, model_path="models/knn_model.pkl"):
+def cross_validate_model(X, k=3, model_path="../models/knn_model.pkl"):
     kf = KFold(n_splits=k, shuffle=True, random_state=42)
     fold_scores = []
 
@@ -31,7 +31,7 @@ def cross_validate_model(X, k=3, model_path="models/knn_model.pkl"):
 
 
 if __name__ == "__main__":
-    file_path = "data/recipes.csv"
+    file_path = "../data/recipes.csv"
     data = pd.read_csv(file_path)
 
     X = data.drop(columns=['yemekAdi', 'yapilis'])

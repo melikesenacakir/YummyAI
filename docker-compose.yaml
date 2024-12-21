@@ -1,0 +1,23 @@
+services:
+  backend:
+    container_name: backend-service
+    build:
+      context: ./backend/
+      dockerfile: ../docker/back.dockerfile
+    ports: 
+      - 5000:5000
+    networks:
+      - YummyAI
+   
+  frontend:
+    container_name: fronted-service
+    build:
+       context: ./frontend/
+       dockerfile: ../docker/front.dockerfile
+    ports:
+      - 4200:4200
+    networks:
+      - YummyAI
+
+networks:
+   YummyAI:
